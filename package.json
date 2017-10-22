@@ -1,0 +1,12 @@
+{
+  "name": "package-doc",
+  "version": "1.0.0",
+  "description": "Auto-generated overview of all dependencies",
+  "private": true,
+  "dependencies": {
+    "@yarnpkg/lockfile": "1.0.0"
+  },
+  "main": "index.js",
+  "author": "sarah koehler",
+  "license": "MIT"
+}
