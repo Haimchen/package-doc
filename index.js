@@ -150,22 +150,22 @@ const writePackageInfo = (entry) => (
     <tr>
       <td><h4>${entry.name}</h4></td>
       <td>${entry.installed}</td>
-      <td>:heart_green: ${entry.latestVersion}</td>
+      <td>:green_heart: ${entry.latestVersion}</td>
     </tr>
   </table>\n
   :earth_africa: [Homepage](${entry.homepage})
-  :github: [Repository](${entry.repository})
+  :octocat: [Repository](${entry.repository})
   \n
   ${entry.description}\n
-  <detail>
+  <details>
   <summar>more</summary>
   ${entry.readme}
-  </detail>
+  </details>
   `
 )
 
 const writeMd = () => {
-  const header = `# Packages/n/n`;
+  const header = `# Packages\n\n`;
   let errors = [];
 
   const packages = Object.entries(packageData).map(([key, value]) => {
@@ -181,7 +181,7 @@ const writeMd = () => {
   })
 
   if (errors.length > 0) {
-    const missingPackages = `### :alarm_clock: Missing Packages\n\n
+    const missingPackages = `\n### :alarm_clock: Missing Packages\n\n
       The following packages were not found on the npm registry. They might be private or no longer exist.`
       + errors.map(err => `- ${err.name} (${err.maxVersion})\n`)
     return header + packages + missingPackages;

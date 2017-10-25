@@ -1,20 +1,22 @@
-# Packages/n/n### Dependencies of type devDependencies
+# Packages
+
+### Dependencies of type devDependencies
 
 <table>
     <tr>
       <td><h4>assets-webpack-plugin</h4></td>
       <td>[object Object]</td>
-      <td>:heart_green: 3.5.1</td>
+      <td>:green_heart: 3.5.1</td>
     </tr>
   </table>
 
   :earth_africa: [Homepage](https://github.com/sporto/assets-webpack-plugin)
-  :github: [Repository](undefined)
+  :octocat: [Repository](undefined)
   
 
   undefined
 
-  <detail>
+  <details>
   <summar>more</summary>
   # assets-webpack-plugin
 [![Build Status](https://travis-ci.org/kossnocorp/assets-webpack-plugin.svg?branch=master)](https://travis-ci.org/kossnocorp/assets-webpack-plugin) [![Build status](https://ci.appveyor.com/api/projects/status/qmvi3h6lk0xu8833?svg=true)](https://ci.appveyor.com/project/kossnocorp/assets-webpack-plugin)
@@ -285,22 +287,22 @@ And finally in the views:
 npm test
 ```
 
-  </detail>
+  </details>
   <table>
     <tr>
       <td><h4>autoprefixer</h4></td>
       <td>[object Object]</td>
-      <td>:heart_green: 7.1.6</td>
+      <td>:green_heart: 7.1.6</td>
     </tr>
   </table>
 
   :earth_africa: [Homepage](https://github.com/postcss/autoprefixer#readme)
-  :github: [Repository](undefined)
+  :octocat: [Repository](undefined)
   
 
   undefined
 
-  <detail>
+  <details>
   <summar>more</summary>
   # Autoprefixer [![Build Status][ci-img]][ci]
 
@@ -889,22 +891,22 @@ var info = autoprefixer().info();
 console.log(info);
 ```
 
-  </detail>
+  </details>
   <table>
     <tr>
       <td><h4>aws-sdk</h4></td>
       <td>[object Object]</td>
-      <td>:heart_green: 2.140.0</td>
+      <td>:green_heart: 2.140.0</td>
     </tr>
   </table>
 
   :earth_africa: [Homepage](https://github.com/aws/aws-sdk-js)
-  :github: [Repository](undefined)
+  :octocat: [Repository](undefined)
   
 
   undefined
 
-  <detail>
+  <details>
   <summar>more</summary>
   # AWS SDK for JavaScript
 
@@ -1078,22 +1080,22 @@ This SDK is distributed under the
 [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0),
 see LICENSE.txt and NOTICE.txt for more information.
 
-  </detail>
+  </details>
   <table>
     <tr>
       <td><h4>babel-cli</h4></td>
       <td>[object Object]</td>
-      <td>:heart_green: 6.26.0</td>
+      <td>:green_heart: 6.26.0</td>
     </tr>
   </table>
 
   :earth_africa: [Homepage](https://babeljs.io/)
-  :github: [Repository](undefined)
+  :octocat: [Repository](undefined)
   
 
   undefined
 
-  <detail>
+  <details>
   <summar>more</summary>
   # babel-cli
 
@@ -1117,22 +1119,22 @@ babel script.js
 
 For more in depth documentation see: http://babeljs.io/docs/usage/cli/
 
-  </detail>
+  </details>
   <table>
     <tr>
       <td><h4>babel-core</h4></td>
       <td>[object Object]</td>
-      <td>:heart_green: 6.26.0</td>
+      <td>:green_heart: 6.26.0</td>
     </tr>
   </table>
 
   :earth_africa: [Homepage](https://babeljs.io/)
-  :github: [Repository](undefined)
+  :octocat: [Repository](undefined)
   
 
   undefined
 
-  <detail>
+  <details>
   <summar>more</summary>
   # babel-core
 
@@ -1256,22 +1258,22 @@ Following is a table of the options you can use:
 | `sourceType`             | `"module"`           | Indicate the mode the code should be parsed in. Can be either "script" or "module". |
 | `wrapPluginVisitorMethod`| `null`               | An optional callback that can be used to wrap visitor methods. **NOTE:** This is useful for things like introspection, and not really needed for implementing anything. Called as `wrapPluginVisitorMethod(pluginAlias, visitorType, callback)`.
 
-  </detail>
+  </details>
   <table>
     <tr>
       <td><h4>babel-loader</h4></td>
       <td>[object Object]</td>
-      <td>:heart_green: 7.1.2</td>
+      <td>:green_heart: 7.1.2</td>
     </tr>
   </table>
 
   :earth_africa: [Homepage](https://github.com/babel/babel-loader)
-  :github: [Repository](undefined)
+  :octocat: [Repository](undefined)
   
 
   undefined
 
-  <detail>
+  <details>
   <summar>more</summary>
   [![NPM Status](https://img.shields.io/npm/v/babel-loader.svg?style=flat)](https://www.npmjs.com/package/babel-loader)
 [![Build Status](https://travis-ci.org/babel/babel-loader.svg?branch=master)](https://travis-ci.org/babel/babel-loader)
@@ -1482,40 +1484,40 @@ In the case one of your dependencies is installing `babel` and you cannot uninst
 
 ## [License](http://couto.mit-license.org/)
 
-  </detail>
+  </details>
   <table>
     <tr>
       <td><h4>babel-plugin-relay</h4></td>
       <td>[object Object]</td>
-      <td>:heart_green: 1.4.1</td>
+      <td>:green_heart: 1.4.1</td>
     </tr>
   </table>
 
   :earth_africa: [Homepage](https://facebook.github.io/relay/)
-  :github: [Repository](undefined)
+  :octocat: [Repository](undefined)
   
 
   undefined
 
-  <detail>
+  <details>
   <summar>more</summary>
   ERROR: No README data found!
-  </detail>
+  </details>
   <table>
     <tr>
       <td><h4>babel-plugin-transform-decorators-legacy</h4></td>
       <td>[object Object]</td>
-      <td>:heart_green: 1.3.4</td>
+      <td>:green_heart: 1.3.4</td>
     </tr>
   </table>
 
   :earth_africa: [Homepage](https://github.com/loganfsmyth/babel-plugin-transform-decorators-legacy#readme)
-  :github: [Repository](undefined)
+  :octocat: [Repository](undefined)
   
 
   undefined
 
-  <detail>
+  <details>
   <summar>more</summary>
   
 
@@ -1618,22 +1620,22 @@ Two main things to mention as differences, though not things you are likely to e
 
 MIT (c) 2015
 
-  </detail>
+  </details>
   <table>
     <tr>
       <td><h4>babel-plugin-transform-flow-strip-types</h4></td>
       <td>[object Object]</td>
-      <td>:heart_green: 6.22.0</td>
+      <td>:green_heart: 6.22.0</td>
     </tr>
   </table>
 
   :earth_africa: [Homepage](undefined)
-  :github: [Repository](undefined)
+  :octocat: [Repository](undefined)
   
 
   undefined
 
-  <detail>
+  <details>
   <summar>more</summary>
   # babel-plugin-transform-flow-strip-types
 
@@ -1671,22 +1673,22 @@ require("babel-core").transform("code", {
 });
 ```
 
-  </detail>
+  </details>
   <table>
     <tr>
       <td><h4>babel-plugin-transform-react-inline-elements</h4></td>
       <td>[object Object]</td>
-      <td>:heart_green: 6.22.0</td>
+      <td>:green_heart: 6.22.0</td>
     </tr>
   </table>
 
   :earth_africa: [Homepage](undefined)
-  :github: [Repository](undefined)
+  :octocat: [Repository](undefined)
   
 
   undefined
 
-  <detail>
+  <details>
   <summar>more</summary>
   # babel-plugin-transform-react-inline-elements
 
@@ -1724,22 +1726,22 @@ require("babel-core").transform("code", {
 });
 ```
 
-  </detail>
+  </details>
   <table>
     <tr>
       <td><h4>babel-plugin-transform-runtime</h4></td>
       <td>[object Object]</td>
-      <td>:heart_green: 6.23.0</td>
+      <td>:green_heart: 6.23.0</td>
     </tr>
   </table>
 
   :earth_africa: [Homepage](undefined)
-  :github: [Repository](undefined)
+  :octocat: [Repository](undefined)
   
 
   undefined
 
-  <detail>
+  <details>
   <summar>more</summary>
   # babel-plugin-transform-runtime
 
@@ -1777,22 +1779,22 @@ require("babel-core").transform("code", {
 });
 ```
 
-  </detail>
+  </details>
   <table>
     <tr>
       <td><h4>babel-preset-es2015</h4></td>
       <td>[object Object]</td>
-      <td>:heart_green: 6.24.1</td>
+      <td>:green_heart: 6.24.1</td>
     </tr>
   </table>
 
   :earth_africa: [Homepage](https://babeljs.io/)
-  :github: [Repository](undefined)
+  :octocat: [Repository](undefined)
   
 
   undefined
 
-  <detail>
+  <details>
   <summar>more</summary>
   # babel-preset-es2015
 
@@ -1852,22 +1854,22 @@ Setting this to `false` will not transform modules.
 
 Enable "spec" transformations for any plugins in this preset that allow them.
 
-  </detail>
+  </details>
   <table>
     <tr>
       <td><h4>babel-preset-react</h4></td>
       <td>[object Object]</td>
-      <td>:heart_green: 6.24.1</td>
+      <td>:green_heart: 6.24.1</td>
     </tr>
   </table>
 
   :earth_africa: [Homepage](https://babeljs.io/)
-  :github: [Repository](undefined)
+  :octocat: [Repository](undefined)
   
 
   undefined
 
-  <detail>
+  <details>
   <summar>more</summary>
   # babel-preset-react
 
@@ -1936,40 +1938,40 @@ require("babel-core").transform("code", {
 });
 ```
 
-  </detail>
+  </details>
   <table>
     <tr>
       <td><h4>babel-preset-react-optimize</h4></td>
       <td>[object Object]</td>
-      <td>:heart_green: 1.0.1</td>
+      <td>:green_heart: 1.0.1</td>
     </tr>
   </table>
 
   :earth_africa: [Homepage](https://github.com/thejamekyle/babel-preset-react-optimize#readme)
-  :github: [Repository](undefined)
+  :octocat: [Repository](undefined)
   
 
   undefined
 
-  <detail>
+  <details>
   <summar>more</summary>
   ERROR: No README data found!
-  </detail>
+  </details>
   <table>
     <tr>
       <td><h4>babel-preset-stage-0</h4></td>
       <td>[object Object]</td>
-      <td>:heart_green: 6.24.1</td>
+      <td>:green_heart: 6.24.1</td>
     </tr>
   </table>
 
   :earth_africa: [Homepage](https://babeljs.io/)
-  :github: [Repository](undefined)
+  :octocat: [Repository](undefined)
   
 
   undefined
 
-  <detail>
+  <details>
   <summar>more</summary>
   # babel-preset-stage-0
 
@@ -2007,22 +2009,22 @@ require("babel-core").transform("code", {
 });
 ```
 
-  </detail>
+  </details>
   <table>
     <tr>
       <td><h4>chai</h4></td>
       <td>[object Object]</td>
-      <td>:heart_green: 4.1.2</td>
+      <td>:green_heart: 4.1.2</td>
     </tr>
   </table>
 
   :earth_africa: [Homepage](http://chaijs.com)
-  :github: [Repository](undefined)
+  :octocat: [Repository](undefined)
   
 
   undefined
 
-  <detail>
+  <details>
   <summar>more</summary>
   <h1 align=center>
   <a href="http://chaijs.com" title="Chai Documentation">
@@ -2237,22 +2239,22 @@ concerns. We will do our best to respond in a timely manner.
 [![Lucas Fernandes da Costa](https://avatars3.githubusercontent.com/u/6868147?v=3&s=50)](https://github.com/lucasfcosta)
 [![Grant Snodgrass](https://avatars3.githubusercontent.com/u/17260989?v=3&s=50)](https://github.com/meeber)
 
-  </detail>
+  </details>
   <table>
     <tr>
       <td><h4>cross-env</h4></td>
       <td>[object Object]</td>
-      <td>:heart_green: 5.1.0</td>
+      <td>:green_heart: 5.1.0</td>
     </tr>
   </table>
 
   :earth_africa: [Homepage](https://github.com/kentcdodds/cross-env#readme)
-  :github: [Repository](undefined)
+  :octocat: [Repository](undefined)
   
 
   undefined
 
-  <detail>
+  <details>
   <summar>more</summary>
   <div align="center">
 <h1>cross-env 🔀</h1>
@@ -2465,22 +2467,22 @@ MIT
 [ts-loader]: https://www.npmjs.com/package/ts-loader
 [malware]: http://blog.npmjs.org/post/163723642530/crossenv-malware-on-the-npm-registry
 
-  </detail>
+  </details>
   <table>
     <tr>
       <td><h4>css-loader</h4></td>
       <td>[object Object]</td>
-      <td>:heart_green: 0.28.7</td>
+      <td>:green_heart: 0.28.7</td>
     </tr>
   </table>
 
   :earth_africa: [Homepage](https://github.com/webpack/css-loader#readme)
-  :github: [Repository](undefined)
+  :octocat: [Repository](undefined)
   
 
   undefined
 
-  <detail>
+  <details>
   <summar>more</summary>
   [![npm][npm]][npm-url]
 [![node][node]][node-url]
@@ -3047,22 +3049,22 @@ module.exports = {
 [chat]: https://badges.gitter.im/webpack/webpack.svg
 [chat-url]: https://gitter.im/webpack/webpack
 
-  </detail>
+  </details>
   <table>
     <tr>
       <td><h4>enzyme</h4></td>
       <td>[object Object]</td>
-      <td>:heart_green: 3.1.0</td>
+      <td>:green_heart: 3.1.0</td>
     </tr>
   </table>
 
   :earth_africa: [Homepage](http://airbnb.io/enzyme/)
-  :github: [Repository](undefined)
+  :octocat: [Repository](undefined)
   
 
   undefined
 
-  <detail>
+  <details>
   <summar>more</summary>
   Enzyme
 =======
@@ -3300,22 +3302,22 @@ Organizations and projects using `enzyme` can list themselves [here](INTHEWILD.m
 
 [MIT](/LICENSE.md)
 
-  </detail>
+  </details>
   <table>
     <tr>
       <td><h4>enzyme-to-json</h4></td>
       <td>[object Object]</td>
-      <td>:heart_green: 3.1.4</td>
+      <td>:green_heart: 3.1.4</td>
     </tr>
   </table>
 
   :earth_africa: [Homepage](https://github.com/adriantoine/enzyme-to-json#readme)
-  :github: [Repository](undefined)
+  :octocat: [Repository](undefined)
   
 
   undefined
 
-  <detail>
+  <details>
   <summar>more</summary>
   # enzyme-to-json
 [![Build Status](https://img.shields.io/travis/adriantoine/enzyme-to-json.svg?branch=master&style=flat-square)](https://travis-ci.org/adriantoine/enzyme-to-json)
@@ -3408,22 +3410,22 @@ And here are all the possible options:
 - [Modes](/docs/modes.md)
 - [Map](/docs/map.md)
 
-  </detail>
+  </details>
   <table>
     <tr>
       <td><h4>exports-loader</h4></td>
       <td>[object Object]</td>
-      <td>:heart_green: 0.6.4</td>
+      <td>:green_heart: 0.6.4</td>
     </tr>
   </table>
 
   :earth_africa: [Homepage](https://github.com/webpack/exports-loader#readme)
-  :github: [Repository](undefined)
+  :octocat: [Repository](undefined)
   
 
   undefined
 
-  <detail>
+  <details>
   <summar>more</summary>
   [![npm][npm]][npm-url]
 [![deps][deps]][deps-url]
@@ -3503,22 +3505,22 @@ require("exports-loader?file!./file.js");
 [chat]: https://img.shields.io/badge/gitter-webpack%2Fwebpack-brightgreen.svg
 [chat-url]: https://gitter.im/webpack/webpack
 
-  </detail>
+  </details>
   <table>
     <tr>
       <td><h4>extract-text-webpack-plugin</h4></td>
       <td>[object Object]</td>
-      <td>:heart_green: 3.0.2</td>
+      <td>:green_heart: 3.0.2</td>
     </tr>
   </table>
 
   :earth_africa: [Homepage](http://github.com/webpack-contrib/extract-text-webpack-plugin)
-  :github: [Repository](undefined)
+  :octocat: [Repository](undefined)
   
 
   undefined
 
-  <detail>
+  <details>
   <summar>more</summary>
   [![npm][npm]][npm-url]
 [![node][node]][node-url]
@@ -3755,22 +3757,22 @@ plugins: [
 [chat]: https://badges.gitter.im/webpack/webpack.svg
 [chat-url]: https://gitter.im/webpack/webpack
 
-  </detail>
+  </details>
   <table>
     <tr>
       <td><h4>fetch</h4></td>
       <td>[object Object]</td>
-      <td>:heart_green: 1.1.0</td>
+      <td>:green_heart: 1.1.0</td>
     </tr>
   </table>
 
   :earth_africa: [Homepage](http://github.com/andris9/fetch)
-  :github: [Repository](undefined)
+  :octocat: [Repository](undefined)
   
 
   undefined
 
-  <detail>
+  <details>
   <summar>more</summary>
   # fetch
 
@@ -3956,22 +3958,22 @@ Gzip and Deflate support is automatically on. This is problematic in Node v0.5.9
 
 BSD
 
-  </detail>
+  </details>
   <table>
     <tr>
       <td><h4>file-loader</h4></td>
       <td>[object Object]</td>
-      <td>:heart_green: 1.1.5</td>
+      <td>:green_heart: 1.1.5</td>
     </tr>
   </table>
 
   :earth_africa: [Homepage](https://github.com/webpack/file-loader)
-  :github: [Repository](undefined)
+  :octocat: [Repository](undefined)
   
 
   undefined
 
-  <detail>
+  <details>
   <summar>more</summary>
   [![npm][npm]][npm-url]
 [![node][node]][node-url]
@@ -4281,76 +4283,76 @@ path/to/file.png?e43b20c069c4a01867c31e98cbce33c9
 [chat]: https://badges.gitter.im/webpack/webpack.svg
 [chat-url]: https://gitter.im/webpack/webpack
 
-  </detail>
+  </details>
   <table>
     <tr>
       <td><h4>iflow-immutable</h4></td>
       <td>[object Object]</td>
-      <td>:heart_green: 1.0.32</td>
+      <td>:green_heart: 1.0.32</td>
     </tr>
   </table>
 
   :earth_africa: [Homepage](undefined)
-  :github: [Repository](undefined)
+  :octocat: [Repository](undefined)
   
 
   undefined
 
-  <detail>
+  <details>
   <summar>more</summary>
   ERROR: No README data found!
-  </detail>
+  </details>
   <table>
     <tr>
       <td><h4>iflow-lodash</h4></td>
       <td>[object Object]</td>
-      <td>:heart_green: 1.1.27</td>
+      <td>:green_heart: 1.1.27</td>
     </tr>
   </table>
 
   :earth_africa: [Homepage](undefined)
-  :github: [Repository](undefined)
+  :octocat: [Repository](undefined)
   
 
   undefined
 
-  <detail>
+  <details>
   <summar>more</summary>
   ERROR: No README data found!
-  </detail>
+  </details>
   <table>
     <tr>
       <td><h4>iflow-react-router</h4></td>
       <td>[object Object]</td>
-      <td>:heart_green: 1.2.1</td>
+      <td>:green_heart: 1.2.1</td>
     </tr>
   </table>
 
   :earth_africa: [Homepage](undefined)
-  :github: [Repository](undefined)
+  :octocat: [Repository](undefined)
   
 
   undefined
 
-  <detail>
+  <details>
   <summar>more</summary>
   ERROR: No README data found!
-  </detail>
+  </details>
   <table>
     <tr>
       <td><h4>imports-loader</h4></td>
       <td>[object Object]</td>
-      <td>:heart_green: 0.7.1</td>
+      <td>:green_heart: 0.7.1</td>
     </tr>
   </table>
 
   :earth_africa: [Homepage](https://github.com/webpack/imports-loader#readme)
-  :github: [Repository](undefined)
+  :octocat: [Repository](undefined)
   
 
   undefined
 
-  <detail>
+  <details>
   <summar>more</summary>
   [![npm][npm]][npm-url]
 [![deps][deps]][deps-url]
@@ -4499,22 +4501,22 @@ For further hints on compatibility issues, check out [Shimming Modules](http://w
 [test]: http://img.shields.io/travis/webpack-contrib/imports-loader.svg
 [test-url]: https://travis-ci.org/webpack-contrib/imports-loader
 
-  </detail>
+  </details>
   <table>
     <tr>
       <td><h4>jsdom</h4></td>
       <td>[object Object]</td>
-      <td>:heart_green: 11.3.0</td>
+      <td>:green_heart: 11.3.0</td>
     </tr>
   </table>
 
   :earth_africa: [Homepage](https://github.com/tmpvar/jsdom#readme)
-  :github: [Repository](undefined)
+  :octocat: [Repository](undefined)
   
 
   undefined
 
-  <detail>
+  <details>
   <summar>more</summary>
   # jsdom
 
@@ -4965,22 +4967,22 @@ If you need help with jsdom, please feel free to use any of the following venues
 - The [issue tracker](https://github.com/tmpvar/jsdom/issues) (best for bug reports)
 - The IRC channel: [#jsdom on freenode](irc://irc.freenode.net/jsdom)
 
-  </detail>
+  </details>
   <table>
     <tr>
       <td><h4>json-loader</h4></td>
       <td>[object Object]</td>
-      <td>:heart_green: 0.5.7</td>
+      <td>:green_heart: 0.5.7</td>
     </tr>
   </table>
 
   :earth_africa: [Homepage](https://github.com/webpack/json-loader#readme)
-  :github: [Repository](undefined)
+  :octocat: [Repository](undefined)
   
 
   undefined
 
-  <detail>
+  <details>
   <summar>more</summary>
   [![npm][npm]][npm-url]
 [![node][node]][node-url]
@@ -5068,22 +5070,22 @@ module.exports = {
 [chat]: https://badges.gitter.im/webpack/webpack.svg
 [chat-url]: https://gitter.im/webpack/webpack
 
-  </detail>
+  </details>
   <table>
     <tr>
       <td><h4>jsx-chai</h4></td>
       <td>[object Object]</td>
-      <td>:heart_green: 4.0.0</td>
+      <td>:green_heart: 4.0.0</td>
     </tr>
   </table>
 
   :earth_africa: [Homepage](https://github.com/bkonkle/jsx-chai#readme)
-  :github: [Repository](undefined)
+  :octocat: [Repository](undefined)
   
 
   undefined
 
-  <detail>
+  <details>
   <summar>more</summary>
   # jsx-chai
 
@@ -5199,22 +5201,22 @@ production build or the build without addons.
 [chai]: http://chaijs.com
 [react-element-to-jsx-string]: https://github.com/algolia/react-element-to-jsx-string
 
-  </detail>
+  </details>
   <table>
     <tr>
       <td><h4>node-object-hash</h4></td>
       <td>[object Object]</td>
-      <td>:heart_green: 1.3.0</td>
+      <td>:green_heart: 1.3.0</td>
     </tr>
   </table>
 
   :earth_africa: [Homepage](https://github.com/SkeLLLa/node-object-hash)
-  :github: [Repository](undefined)
+  :octocat: [Repository](undefined)
   
 
   undefined
 
-  <detail>
+  <details>
   <summar>more</summary>
   # node-object-hash
 
@@ -5638,22 +5640,22 @@ Bench data - array of 100000 complex objects
 
 ISC
 
-  </detail>
+  </details>
   <table>
     <tr>
       <td><h4>node-sass</h4></td>
       <td>[object Object]</td>
-      <td>:heart_green: 4.5.3</td>
+      <td>:green_heart: 4.5.3</td>
     </tr>
   </table>
 
   :earth_africa: [Homepage](https://github.com/sass/node-sass)
-  :github: [Repository](undefined)
+  :octocat: [Repository](undefined)
   
 
   undefined
 
-  <detail>
+  <details>
   <summar>more</summary>
   # node-sass
 
@@ -6232,22 +6234,22 @@ Copyright (c) 2015 Andrew Nesbitt. See [LICENSE](https://github.com/sass/node-sa
 
 [LibSass]: https://github.com/sass/libsass
 
-  </detail>
+  </details>
   <table>
     <tr>
       <td><h4>nodemon</h4></td>
       <td>[object Object]</td>
-      <td>:heart_green: 1.12.1</td>
+      <td>:green_heart: 1.12.1</td>
     </tr>
   </table>
 
   :earth_africa: [Homepage](http://nodemon.io)
-  :github: [Repository](undefined)
+  :octocat: [Repository](undefined)
   
 
   undefined
 
-  <detail>
+  <details>
   <summar>more</summary>
   ![nodemon logo](http://nodemon.io/nodemon.svg)
 
@@ -6543,22 +6545,22 @@ See the [FAQ](https://github.com/remy/nodemon/blob/master/faq.md) and please add
 
 MIT [http://rem.mit-license.org](http://rem.mit-license.org)
 
-  </detail>
+  </details>
   <table>
     <tr>
       <td><h4>optimize-js-plugin</h4></td>
       <td>[object Object]</td>
-      <td>:heart_green: 0.0.4</td>
+      <td>:green_heart: 0.0.4</td>
     </tr>
   </table>
 
   :earth_africa: [Homepage](https://github.com/vigneshshanmugam/optimize-js-plugin#readme)
-  :github: [Repository](undefined)
+  :octocat: [Repository](undefined)
   
 
   undefined
 
-  <detail>
+  <details>
   <summar>more</summary>
   # optimize-js-plugin
 
@@ -6601,22 +6603,22 @@ npm run example
 
 All options as mentioned [here](https://github.com/nolanlawson/optimize-js#javascript-api)
 
-  </detail>
+  </details>
   <table>
     <tr>
       <td><h4>postcss-import</h4></td>
       <td>[object Object]</td>
-      <td>:heart_green: 11.0.0</td>
+      <td>:green_heart: 11.0.0</td>
     </tr>
   </table>
 
   :earth_africa: [Homepage](https://github.com/postcss/postcss-import#readme)
-  :github: [Repository](undefined)
+  :octocat: [Repository](undefined)
   
 
   undefined
 
-  <detail>
+  <details>
   <summar>more</summary>
   # postcss-import
 
@@ -6839,22 +6841,22 @@ This is mainly for use by postcss runners that implement file watching.
 
 ## [License](LICENSE)
 
-  </detail>
+  </details>
   <table>
     <tr>
       <td><h4>pre-push</h4></td>
       <td>[object Object]</td>
-      <td>:heart_green: 0.1.1</td>
+      <td>:green_heart: 0.1.1</td>
     </tr>
   </table>
 
   :earth_africa: [Homepage](https://github.com/dflourusso/pre-push)
-  :github: [Repository](undefined)
+  :octocat: [Repository](undefined)
   
 
   undefined
 
-  <detail>
+  <details>
   <summar>more</summary>
   # pre-push
 
@@ -6984,22 +6986,22 @@ http://githooks.com
 
 MIT
 
-  </detail>
+  </details>
   <table>
     <tr>
       <td><h4>react-hot-loader</h4></td>
       <td>[object Object]</td>
-      <td>:heart_green: 3.1.1</td>
+      <td>:green_heart: 3.1.1</td>
     </tr>
   </table>
 
   :earth_africa: [Homepage](https://github.com/gaearon/react-hot-loader)
-  :github: [Repository](undefined)
+  :octocat: [Repository](undefined)
   
 
   undefined
 
-  <detail>
+  <details>
   <summar>more</summary>
   # React Hot Loader
 
@@ -7329,22 +7331,22 @@ MIT
 [github-star-badge]: https://img.shields.io/github/stars/gaearon/react-hot-loader.svg?style=social
 [github-star]: https://github.com/gaearon/react-hot-loader/stargazers
 
-  </detail>
+  </details>
   <table>
     <tr>
       <td><h4>react-immutable-proptypes</h4></td>
       <td>[object Object]</td>
-      <td>:heart_green: 2.1.0</td>
+      <td>:green_heart: 2.1.0</td>
     </tr>
   </table>
 
   :earth_africa: [Homepage](https://github.com/HurricaneJames/react-immutable-proptypes)
-  :github: [Repository](undefined)
+  :octocat: [Repository](undefined)
   
 
   undefined
 
-  <detail>
+  <details>
   <summar>more</summary>
   # react-immutable-proptypes
 
@@ -7484,40 +7486,40 @@ These two validators cover the output of `Immutable.fromJS` on standard JSON dat
 
 Please send a message or, better yet, create an issue/pull request if you know a better solution, find bugs, or want a feature. For example, should `listOf` work with `Immutable.Seq` or `Immutable.Range`. I can think of reasons it should, but it is not a use case I have at the present, so I'm less than inclined to implement it. Alternatively, we could add a validator for sequences and/or ranges.
 
-  </detail>
+  </details>
   <table>
     <tr>
       <td><h4>relay-compiler</h4></td>
       <td>[object Object]</td>
-      <td>:heart_green: 1.4.1</td>
+      <td>:green_heart: 1.4.1</td>
     </tr>
   </table>
 
   :earth_africa: [Homepage](https://facebook.github.io/relay/)
-  :github: [Repository](undefined)
+  :octocat: [Repository](undefined)
   
 
   undefined
 
-  <detail>
+  <details>
   <summar>more</summary>
   ERROR: No README data found!
-  </detail>
+  </details>
   <table>
     <tr>
       <td><h4>sass-loader</h4></td>
       <td>[object Object]</td>
-      <td>:heart_green: 6.0.6</td>
+      <td>:green_heart: 6.0.6</td>
     </tr>
   </table>
 
   :earth_africa: [Homepage](https://github.com/webpack-contrib/sass-loader)
-  :github: [Repository](undefined)
+  :octocat: [Repository](undefined)
   
 
   undefined
 
-  <detail>
+  <details>
   <summar>more</summary>
   [![npm][npm]][npm-url]
 [![node][node]][node-url]
@@ -7757,22 +7759,22 @@ If you want to prepend Sass code before the actual entry file, you can set the `
 [chat]: https://badges.gitter.im/webpack/webpack.svg
 [chat-url]: https://gitter.im/webpack/webpack
 
-  </detail>
+  </details>
   <table>
     <tr>
       <td><h4>selenium-download</h4></td>
       <td>[object Object]</td>
-      <td>:heart_green: 2.0.10</td>
+      <td>:green_heart: 2.0.10</td>
     </tr>
   </table>
 
   :earth_africa: [Homepage](https://github.com/groupon/selenium-download)
-  :github: [Repository](undefined)
+  :octocat: [Repository](undefined)
   
 
   undefined
 
-  <detail>
+  <details>
   <summar>more</summary>
   # selenium-download
 
@@ -7823,22 +7825,22 @@ files to be the latest available versions.
 Clears temp directory before checking.
 
 
-  </detail>
+  </details>
   <table>
     <tr>
       <td><h4>sinon</h4></td>
       <td>[object Object]</td>
-      <td>:heart_green: 4.0.2</td>
+      <td>:green_heart: 4.0.2</td>
     </tr>
   </table>
 
   :earth_africa: [Homepage](http://sinonjs.org/)
-  :github: [Repository](undefined)
+  :octocat: [Repository](undefined)
   
 
   undefined
 
-  <detail>
+  <details>
   <summar>more</summary>
   <h1 align=center>
     <a href="http://sinonjs.org" title="Sinon.JS">
@@ -7971,22 +7973,22 @@ Become a sponsor and get your logo on our README on GitHub with a link to your s
 
 Sinon.js was released under [BSD-3](LICENSE)
 
-  </detail>
+  </details>
   <table>
     <tr>
       <td><h4>style-loader</h4></td>
       <td>[object Object]</td>
-      <td>:heart_green: 0.19.0</td>
+      <td>:green_heart: 0.19.0</td>
     </tr>
   </table>
 
   :earth_africa: [Homepage](https://github.com/webpack/style-loader#readme)
-  :github: [Repository](undefined)
+  :octocat: [Repository](undefined)
   
 
   undefined
 
-  <detail>
+  <details>
   <summar>more</summary>
   [![npm][npm]][npm-url]
 [![node][node]][node-url]
@@ -8437,22 +8439,22 @@ If convertToAbsoluteUrls and sourceMaps are both enabled, relative urls will be 
 [chat]: https://badges.gitter.im/webpack/webpack.svg
 [chat-url]: https://gitter.im/webpack/webpack
 
-  </detail>
+  </details>
   <table>
     <tr>
       <td><h4>webpack-bundle-analyzer</h4></td>
       <td>[object Object]</td>
-      <td>:heart_green: 2.9.0</td>
+      <td>:green_heart: 2.9.0</td>
     </tr>
   </table>
 
   :earth_africa: [Homepage](https://github.com/th0r/webpack-bundle-analyzer)
-  :github: [Repository](undefined)
+  :octocat: [Repository](undefined)
   
 
   undefined
 
-  <detail>
+  <details>
   <summar>more</summary>
   # Webpack Bundle Analyzer
 Webpack plugin and CLI utility that represents bundle content as convenient interactive zoomable treemap
@@ -8578,22 +8580,22 @@ Check out [CONTRIBUTING.md](./CONTRIBUTING.md) for instructions on contributing 
 [npm-url]: https://www.npmjs.com/package/webpack-bundle-analyzer
 [npm-image]: https://img.shields.io/npm/v/webpack-bundle-analyzer.svg
 
-  </detail>
+  </details>
   <table>
     <tr>
       <td><h4>why-did-you-update</h4></td>
       <td>[object Object]</td>
-      <td>:heart_green: 0.0.8</td>
+      <td>:green_heart: 0.0.8</td>
     </tr>
   </table>
 
   :earth_africa: [Homepage](https://github.com/garbles/why-did-you-update#readme)
-  :github: [Repository](undefined)
+  :octocat: [Repository](undefined)
   
 
   undefined
 
-  <detail>
+  <details>
   <summar>more</summary>
   # Why did you update, bruh?
 
@@ -8631,22 +8633,22 @@ That is really awesome but also tedious AF, so why not just monkey patch React.
 [build-badge]: https://img.shields.io/travis/garbles/why-did-you-update/master.svg?style=flat-square
 [build]: https://travis-ci.org/garbles/why-did-you-update
 
-  </detail>
+  </details>
   <table>
     <tr>
       <td><h4>yarn-run-all</h4></td>
       <td>[object Object]</td>
-      <td>:heart_green: 3.1.1</td>
+      <td>:green_heart: 3.1.1</td>
     </tr>
   </table>
 
   :earth_africa: [Homepage](https://github.com/mysticatea/npm-run-all)
-  :github: [Repository](undefined)
+  :octocat: [Repository](undefined)
   
 
   undefined
 
-  <detail>
+  <details>
   <summar>more</summary>
   | index | [npm-run-all] | [run-s] | [run-p] | [Node API] |
 |-------|---------------|---------|---------|------------|
@@ -8736,24 +8738,24 @@ Those work on Windows, Mac, or Linux (by the way, I'm developping `npm-run-all` 
 [run-p]: docs/run-p.md
 [Node API]: docs/node-api.md
 
-  </detail>
+  </details>
   ,### Dependencies of type dependencies
 
 <table>
     <tr>
       <td><h4>asap</h4></td>
       <td>[object Object]</td>
-      <td>:heart_green: 2.0.6</td>
+      <td>:green_heart: 2.0.6</td>
     </tr>
   </table>
 
   :earth_africa: [Homepage](https://github.com/kriskowal/asap#readme)
-  :github: [Repository](undefined)
+  :octocat: [Repository](undefined)
   
 
   undefined
 
-  <detail>
+  <details>
   <summar>more</summary>
   # ASAP
 
@@ -8993,22 +8995,22 @@ Copyright 2009-2014 by Contributors
 MIT License (enclosed)
 
 
-  </detail>
+  </details>
   <table>
     <tr>
       <td><h4>autosuggest-highlight</h4></td>
       <td>[object Object]</td>
-      <td>:heart_green: 3.1.1</td>
+      <td>:green_heart: 3.1.1</td>
     </tr>
   </table>
 
   :earth_africa: [Homepage](https://github.com/moroshko/autosuggest-highlight#readme)
-  :github: [Repository](undefined)
+  :octocat: [Repository](undefined)
   
 
   undefined
 
-  <detail>
+  <details>
   <summar>more</summary>
   [![Build Status](https://img.shields.io/codeship/99ce0dd0-d5d5-0132-ce75-1e0a7d4d648e/master.svg?style=flat-square)](https://codeship.com/projects/78168)
 [![Contributors](https://img.shields.io/github/contributors/moroshko/autosuggest-highlight.svg?style=flat-square)](https://github.com/moroshko/autosuggest-highlight/graphs/contributors)
@@ -9156,22 +9158,22 @@ var parts = parse('Pretty cool text', [[7, 9], [12, 13]]);
 
 [MIT](http://moroshko.mit-license.org)
 
-  </detail>
+  </details>
   <table>
     <tr>
       <td><h4>babel-jest</h4></td>
       <td>[object Object]</td>
-      <td>:heart_green: 21.2.0</td>
+      <td>:green_heart: 21.2.0</td>
     </tr>
   </table>
 
   :earth_africa: [Homepage](https://github.com/facebook/jest#readme)
-  :github: [Repository](undefined)
+  :octocat: [Repository](undefined)
   
 
   undefined
 
-  <detail>
+  <details>
   <summar>more</summary>
   # babel-jest
 
@@ -9199,22 +9201,22 @@ To explicitly define `babel-jest` as a transformer for your JavaScript code, map
 },
 ```
 
-  </detail>
+  </details>
   <table>
     <tr>
       <td><h4>babel-plugin-module-resolver</h4></td>
       <td>[object Object]</td>
-      <td>:heart_green: 2.7.1</td>
+      <td>:green_heart: 2.7.1</td>
     </tr>
   </table>
 
   :earth_africa: [Homepage](https://github.com/tleunen/babel-plugin-module-resolver#readme)
-  :github: [Repository](undefined)
+  :octocat: [Repository](undefined)
   
 
   undefined
 
-  <detail>
+  <details>
   <summar>more</summary>
   # babel-plugin-module-resolver
 [![Maintenance Status][status-image]][status-url] [![NPM version][npm-image]][npm-url] [![Build Status Linux][circleci-image]][circleci-url] [![Build Status Windows][appveyor-image]][appveyor-url] [![Coverage Status][coverage-image]][coverage-url]
@@ -9336,22 +9338,22 @@ MIT, see [LICENSE.md](/LICENSE.md) for details.
 [eslint-plugin-import]: https://github.com/benmosher/eslint-plugin-import
 [atom-autocomplete-modules]: https://github.com/nkt/atom-autocomplete-modules
 
-  </detail>
+  </details>
   <table>
     <tr>
       <td><h4>babel-plugin-webpack-alias</h4></td>
       <td>[object Object]</td>
-      <td>:heart_green: 2.1.2</td>
+      <td>:green_heart: 2.1.2</td>
     </tr>
   </table>
 
   :earth_africa: [Homepage](https://github.com/trayio/babel-plugin-webpack-alias#readme)
-  :github: [Repository](undefined)
+  :octocat: [Repository](undefined)
   
 
   undefined
 
-  <detail>
+  <details>
   <summar>more</summary>
   
 # babel-plugin-webpack-alias
@@ -9485,62 +9487,62 @@ In this case, the plugin will only be run when `NODE_ENV` is set to `test`.
     var MyModule = require('../../alias-folder/js/lib/MyComponent');
     ```
 
-  </detail>
+  </details>
   <table>
     <tr>
       <td><h4>babel-polyfill</h4></td>
       <td>[object Object]</td>
-      <td>:heart_green: 6.26.0</td>
+      <td>:green_heart: 6.26.0</td>
     </tr>
   </table>
 
   :earth_africa: [Homepage](https://babeljs.io/)
-  :github: [Repository](undefined)
+  :octocat: [Repository](undefined)
   
 
   undefined
 
-  <detail>
+  <details>
   <summar>more</summary>
   # babel-polyfill
 
 
-  </detail>
+  </details>
   <table>
     <tr>
       <td><h4>babel-runtime</h4></td>
       <td>[object Object]</td>
-      <td>:heart_green: 6.26.0</td>
+      <td>:green_heart: 6.26.0</td>
     </tr>
   </table>
 
   :earth_africa: [Homepage](undefined)
-  :github: [Repository](undefined)
+  :octocat: [Repository](undefined)
   
 
   undefined
 
-  <detail>
+  <details>
   <summar>more</summary>
   # babel-runtime
 
 
-  </detail>
+  </details>
   <table>
     <tr>
       <td><h4>bluebird</h4></td>
       <td>[object Object]</td>
-      <td>:heart_green: 3.5.1</td>
+      <td>:green_heart: 3.5.1</td>
     </tr>
   </table>
 
   :earth_africa: [Homepage](https://github.com/petkaantonov/bluebird)
-  :github: [Repository](undefined)
+  :octocat: [Repository](undefined)
   
 
   undefined
 
-  <detail>
+  <details>
   <summar>more</summary>
   <a href="http://promisesaplus.com/">
     <img src="http://promisesaplus.com/assets/logo-small.png" alt="Promises/A+ logo"
@@ -9595,22 +9597,22 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 
 
-  </detail>
+  </details>
   <table>
     <tr>
       <td><h4>body-parser</h4></td>
       <td>[object Object]</td>
-      <td>:heart_green: 1.18.2</td>
+      <td>:green_heart: 1.18.2</td>
     </tr>
   </table>
 
   :earth_africa: [Homepage](https://github.com/expressjs/body-parser#readme)
-  :github: [Repository](undefined)
+  :octocat: [Repository](undefined)
   
 
   undefined
 
-  <detail>
+  <details>
   <summar>more</summary>
   # body-parser
 
@@ -10051,22 +10053,22 @@ app.use(bodyParser.text({ type: 'text/html' }))
 [gratipay-image]: https://img.shields.io/gratipay/dougwilson.svg
 [gratipay-url]: https://www.gratipay.com/dougwilson/
 
-  </detail>
+  </details>
   <table>
     <tr>
       <td><h4>chroma-js</h4></td>
       <td>[object Object]</td>
-      <td>:heart_green: 1.3.4</td>
+      <td>:green_heart: 1.3.4</td>
     </tr>
   </table>
 
   :earth_africa: [Homepage](https://github.com/gka/chroma.js)
-  :github: [Repository](undefined)
+  :octocat: [Repository](undefined)
   
 
   undefined
 
-  <detail>
+  <details>
   <summar>more</summary>
   # Chroma.js
 
@@ -10156,22 +10158,22 @@ Versions prior to 0.4 were released under [GPL](http://www.gnu.org/licenses/gpl-
 * [How To Avoid Equidistant HSV Colors](https://vis4.net/blog/posts/avoid-equidistant-hsv-colors/)
 * [Mastering Multi-hued Color Scales with Chroma.js](https://vis4.net/blog/posts/mastering-multi-hued-color-scales/)
 
-  </detail>
+  </details>
   <table>
     <tr>
       <td><h4>classnames</h4></td>
       <td>[object Object]</td>
-      <td>:heart_green: 2.2.5</td>
+      <td>:green_heart: 2.2.5</td>
     </tr>
   </table>
 
   :earth_africa: [Homepage](https://github.com/JedWatson/classnames#readme)
-  :github: [Repository](undefined)
+  :octocat: [Repository](undefined)
   
 
   undefined
 
-  <detail>
+  <details>
   <summar>more</summary>
   Classnames
 ===========
@@ -10362,40 +10364,40 @@ export default class SubmitButton extends Component {
 
 [MIT](LICENSE). Copyright (c) 2016 Jed Watson.
 
-  </detail>
+  </details>
   <table>
     <tr>
       <td><h4>cluster</h4></td>
       <td>[object Object]</td>
-      <td>:heart_green: 0.7.7</td>
+      <td>:green_heart: 0.7.7</td>
     </tr>
   </table>
 
   :earth_africa: [Homepage](http://learnboost.github.com/cluster)
-  :github: [Repository](undefined)
+  :octocat: [Repository](undefined)
   
 
   undefined
 
-  <detail>
+  <details>
   <summar>more</summary>
   
-  </detail>
+  </details>
   <table>
     <tr>
       <td><h4>color-it</h4></td>
       <td>[object Object]</td>
-      <td>:heart_green: 1.2.10</td>
+      <td>:green_heart: 1.2.10</td>
     </tr>
   </table>
 
   :earth_africa: [Homepage](https://github.com/IonicaBizau/node-color-it#readme)
-  :github: [Repository](undefined)
+  :octocat: [Repository](undefined)
   
 
   undefined
 
-  <detail>
+  <details>
   <summar>more</summary>
   <!-- Please do not edit this file. Edit the `blah` field in the `package.json` instead. If in doubt, open an issue. -->
 
@@ -10576,22 +10578,22 @@ If you are using this library in one of your projects, add it in this list. :spa
 [contributing]: /CONTRIBUTING.md
 [docs]: /DOCUMENTATION.md
 
-  </detail>
+  </details>
   <table>
     <tr>
       <td><h4>connect-flash</h4></td>
       <td>[object Object]</td>
-      <td>:heart_green: 0.1.1</td>
+      <td>:green_heart: 0.1.1</td>
     </tr>
   </table>
 
   :earth_africa: [Homepage](undefined)
-  :github: [Repository](undefined)
+  :octocat: [Repository](undefined)
   
 
   undefined
 
-  <detail>
+  <details>
   <summar>more</summary>
   # connect-flash
 
@@ -10667,22 +10669,22 @@ example.
 
 Copyright (c) 2012-2013 Jared Hanson <[http://jaredhanson.net/](http://jaredhanson.net/)>
 
-  </detail>
+  </details>
   <table>
     <tr>
       <td><h4>connect-redis</h4></td>
       <td>[object Object]</td>
-      <td>:heart_green: 3.3.2</td>
+      <td>:green_heart: 3.3.2</td>
     </tr>
   </table>
 
   :earth_africa: [Homepage](https://github.com/visionmedia/connect-redis#readme)
-  :github: [Repository](undefined)
+  :octocat: [Repository](undefined)
   
 
   undefined
 
-  <detail>
+  <details>
   <summar>more</summary>
   [![npm](https://img.shields.io/npm/v/connect-redis.svg)](https://npmjs.com/package/connect-redis) [![Dependencies](https://img.shields.io/david/tj/connect-redis.svg)](https://david-dm.org/tj/connect-redis) ![Downloads](https://img.shields.io/npm/dm/connect-redis.svg)
 
@@ -10767,22 +10769,22 @@ License
 
 MIT
 
-  </detail>
+  </details>
   <table>
     <tr>
       <td><h4>cookie-parser</h4></td>
       <td>[object Object]</td>
-      <td>:heart_green: 1.4.3</td>
+      <td>:green_heart: 1.4.3</td>
     </tr>
   </table>
 
   :earth_africa: [Homepage](https://github.com/expressjs/cookie-parser)
-  :github: [Repository](undefined)
+  :octocat: [Repository](undefined)
   
 
   undefined
 
-  <detail>
+  <details>
   <summar>more</summary>
   # cookie-parser
 
@@ -10870,22 +10872,22 @@ app.listen(8080)
 [downloads-image]: https://img.shields.io/npm/dm/cookie-parser.svg
 [downloads-url]: https://npmjs.org/package/cookie-parser
 
-  </detail>
+  </details>
   <table>
     <tr>
       <td><h4>currency-symbol-map</h4></td>
       <td>[object Object]</td>
-      <td>:heart_green: 4.0.3</td>
+      <td>:green_heart: 4.0.3</td>
     </tr>
   </table>
 
   :earth_africa: [Homepage](https://github.com/bengourley/currency-symbol-map#readme)
-  :github: [Repository](undefined)
+  :octocat: [Repository](undefined)
   
 
   undefined
 
-  <detail>
+  <details>
   <summar>more</summary>
   # currency-symbol-map
 
@@ -10945,22 +10947,22 @@ there is not a deterministic way to do so (i.e. the same symbol is used by multi
 Currency symbols originally sourced from [xe](http://www.xe.com/symbols.php), but maintained
 and updated by [contributors](https://github.com/bengourley/currency-symbol-map/pulls?q=is%3Apr+is%3Aclosed).
 
-  </detail>
+  </details>
   <table>
     <tr>
       <td><h4>d3</h4></td>
       <td>[object Object]</td>
-      <td>:heart_green: 4.11.0</td>
+      <td>:green_heart: 4.11.0</td>
     </tr>
   </table>
 
   :earth_africa: [Homepage](https://d3js.org)
-  :github: [Repository](undefined)
+  :octocat: [Repository](undefined)
   
 
   undefined
 
-  <detail>
+  <details>
   <summar>more</summary>
   # D3: Data-Driven Documents
 
@@ -11020,22 +11022,22 @@ You can also require individual modules and combine them into a `d3` object usin
 var d3 = Object.assign({}, require("d3-format"), require("d3-geo"), require("d3-geo-projection"));
 ```
 
-  </detail>
+  </details>
   <table>
     <tr>
       <td><h4>d3-color</h4></td>
       <td>[object Object]</td>
-      <td>:heart_green: 1.0.3</td>
+      <td>:green_heart: 1.0.3</td>
     </tr>
   </table>
 
   :earth_africa: [Homepage](https://d3js.org/d3-color/)
-  :github: [Repository](undefined)
+  :octocat: [Repository](undefined)
   
 
   undefined
 
-  <detail>
+  <details>
   <summar>more</summary>
   # d3-color
 
@@ -11174,22 +11176,22 @@ Constructs a new [Cubehelix](https://www.mrao.cam.ac.uk/~dag/CUBEHELIX/) color. 
 
 If *h*, *s* and *l* are specified, these represent the channel values of the returned color; an *opacity* may also be specified. If a CSS Color Module Level 3 *specifier* string is specified, it is parsed and then converted to the Cubehelix color space. See [color](#color) for examples. If a [*color*](#color) instance is specified, it is converted to the RGB color space using [*color*.rgb](#color_rgb) and then converted to Cubehelix. (Colors already in the Cubehelix color space skip the conversion to RGB.)
 
-  </detail>
+  </details>
   <table>
     <tr>
       <td><h4>d3-interpolate</h4></td>
       <td>[object Object]</td>
-      <td>:heart_green: 1.1.5</td>
+      <td>:green_heart: 1.1.5</td>
     </tr>
   </table>
 
   :earth_africa: [Homepage](https://d3js.org/d3-interpolate/)
-  :github: [Repository](undefined)
+  :octocat: [Repository](undefined)
   
 
   undefined
 
-  <detail>
+  <details>
   <summar>more</summary>
   # d3-interpolate
 
@@ -11417,22 +11419,22 @@ Returns a uniform nonrational B-spline interpolator through the specified array 
 
 Returns a uniform nonrational B-spline interpolator through the specified array of *values*, which must be numbers. The control points are implicitly repeated such that the resulting one-dimensional spline has cyclical C² continuity when repeated around *t* in [0,1]. See also [d3.curveBasisClosed](https://github.com/d3/d3-shape#curveBasisClosed).
 
-  </detail>
+  </details>
   <table>
     <tr>
       <td><h4>debug</h4></td>
       <td>[object Object]</td>
-      <td>:heart_green: 3.1.0</td>
+      <td>:green_heart: 3.1.0</td>
     </tr>
   </table>
 
   :earth_africa: [Homepage](https://github.com/visionmedia/debug#readme)
-  :github: [Repository](undefined)
+  :octocat: [Repository](undefined)
   
 
   undefined
 
-  <detail>
+  <details>
   <summar>more</summary>
   # debug
 [![Build Status](https://travis-ci.org/visionmedia/debug.svg?branch=master)](https://travis-ci.org/visionmedia/debug)  [![Coverage Status](https://coveralls.io/repos/github/visionmedia/debug/badge.svg?branch=master)](https://coveralls.io/github/visionmedia/debug?branch=master)  [![Slack](https://visionmedia-community-slackin.now.sh/badge.svg)](https://visionmedia-community-slackin.now.sh/) [![OpenCollective](https://opencollective.com/debug/backers/badge.svg)](#backers)
@@ -11803,22 +11805,22 @@ CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
 TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
 SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-  </detail>
+  </details>
   <table>
     <tr>
       <td><h4>diff</h4></td>
       <td>[object Object]</td>
-      <td>:heart_green: 3.4.0</td>
+      <td>:green_heart: 3.4.0</td>
     </tr>
   </table>
 
   :earth_africa: [Homepage](https://github.com/kpdecker/jsdiff#readme)
-  :github: [Repository](undefined)
+  :octocat: [Repository](undefined)
   
 
   undefined
 
-  <detail>
+  <details>
   <summar>more</summary>
   # jsdiff
 
@@ -12032,22 +12034,22 @@ jsdiff supports all ES3 environments with some known issues on IE8 and below. Un
 
 See [LICENSE](https://github.com/kpdecker/jsdiff/blob/master/LICENSE).
 
-  </detail>
+  </details>
   <table>
     <tr>
       <td><h4>es6-object-assign</h4></td>
       <td>[object Object]</td>
-      <td>:heart_green: 1.1.0</td>
+      <td>:green_heart: 1.1.0</td>
     </tr>
   </table>
 
   :earth_africa: [Homepage](https://github.com/rubennorte/es6-object-assign)
-  :github: [Repository](undefined)
+  :octocat: [Repository](undefined)
   
 
   undefined
 
-  <detail>
+  <details>
   <summar>more</summary>
   [![npm](https://img.shields.io/npm/l/es6-object-assign.svg)](https://www.npmjs.org/package/es6-object-assign)
 [![npm](https://img.shields.io/npm/v/es6-object-assign.svg)](https://www.npmjs.org/package/es6-object-assign)
@@ -12146,22 +12148,22 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 
-  </detail>
+  </details>
   <table>
     <tr>
       <td><h4>express</h4></td>
       <td>[object Object]</td>
-      <td>:heart_green: 4.16.2</td>
+      <td>:green_heart: 4.16.2</td>
     </tr>
   </table>
 
   :earth_africa: [Homepage](http://expressjs.com/)
-  :github: [Repository](undefined)
+  :octocat: [Repository](undefined)
   
 
   undefined
 
-  <detail>
+  <details>
   <summar>more</summary>
   [![Express Logo](https://i.cloudup.com/zfY6lL7eFa-3000x3000.png)](http://expressjs.com/)
 
@@ -12317,22 +12319,22 @@ The current lead maintainer is [Douglas Christopher Wilson](https://github.com/d
 [gratipay-image-dougwilson]: https://img.shields.io/gratipay/dougwilson.svg
 [gratipay-url-dougwilson]: https://gratipay.com/dougwilson/
 
-  </detail>
+  </details>
   <table>
     <tr>
       <td><h4>express-session</h4></td>
       <td>[object Object]</td>
-      <td>:heart_green: 1.15.6</td>
+      <td>:green_heart: 1.15.6</td>
     </tr>
   </table>
 
   :earth_africa: [Homepage](https://github.com/expressjs/session#readme)
-  :github: [Repository](undefined)
+  :octocat: [Repository](undefined)
   
 
   undefined
 
-  <detail>
+  <details>
   <summar>more</summary>
   # express-session
 
@@ -13091,22 +13093,22 @@ app.get('/bar', function (req, res, next) {
 [gratipay-image]: https://img.shields.io/gratipay/dougwilson.svg
 [gratipay-url]: https://gratipay.com/dougwilson/
 
-  </detail>
+  </details>
   <table>
     <tr>
       <td><h4>file-saver</h4></td>
       <td>[object Object]</td>
-      <td>:heart_green: 1.3.3</td>
+      <td>:green_heart: 1.3.3</td>
     </tr>
   </table>
 
   :earth_africa: [Homepage](https://github.com/eligrey/FileSaver.js#readme)
-  :github: [Repository](undefined)
+  :octocat: [Repository](undefined)
   
 
   undefined
 
-  <detail>
+  <details>
   <summar>more</summary>
   If you need to save really large files bigger then the blob's size limitation or don't have 
 enough RAM, then have a look at the more advanced [StreamSaver.js](https://github.com/jimmywarting/StreamSaver.js)
@@ -13244,22 +13246,22 @@ npm install file-saver --save
 bower install file-saver
 ```
 
-  </detail>
+  </details>
   <table>
     <tr>
       <td><h4>fixed-data-table-2</h4></td>
       <td>[object Object]</td>
-      <td>:heart_green: 0.8.3</td>
+      <td>:green_heart: 0.8.3</td>
     </tr>
   </table>
 
   :earth_africa: [Homepage](http://schrodinger.github.io/fixed-data-table-2)
-  :github: [Repository](undefined)
+  :octocat: [Repository](undefined)
   
 
   undefined
 
-  <detail>
+  <details>
   <summar>more</summary>
   Fixed Data Table 2 for React ![Travic CI status](https://api.travis-ci.org/schrodinger/fixed-data-table-2.svg?branch=master) [![npm version](https://badge.fury.io/js/fixed-data-table-2.svg)](https://www.npmjs.com/package/fixed-data-table-2)
 ====================================
@@ -13470,22 +13472,22 @@ License
 
 `FixedDataTable` is [BSD-licensed](https://github.com/schrodinger/fixed-data-table-2/blob/master/LICENSE). We also provide an additional [patent grant](https://github.com/schrodinger/fixed-data-table-2/blob/master/PATENTS).
 
-  </detail>
+  </details>
   <table>
     <tr>
       <td><h4>gelfling</h4></td>
       <td>[object Object]</td>
-      <td>:heart_green: 0.3.1</td>
+      <td>:green_heart: 0.3.1</td>
     </tr>
   </table>
 
   :earth_africa: [Homepage](https://github.com/mhart/gelfling#readme)
-  :github: [Repository](undefined)
+  :octocat: [Repository](undefined)
   
 
   undefined
 
-  <detail>
+  <details>
   <summar>more</summary>
   # GELF (Graylog2) messages in node.js
 
@@ -13513,22 +13515,22 @@ var complexClient = gelfling('localhost', 12201, {
 complexClient.send({ txt: 'Hi', myTotal: 1337, myCount: 23 })
 ```
 
-  </detail>
+  </details>
   <table>
     <tr>
       <td><h4>glamor</h4></td>
       <td>[object Object]</td>
-      <td>:heart_green: 2.20.40</td>
+      <td>:green_heart: 2.20.40</td>
     </tr>
   </table>
 
   :earth_africa: [Homepage](https://github.com/threepointone/glamor)
-  :github: [Repository](undefined)
+  :octocat: [Repository](undefined)
   
 
   undefined
 
-  <detail>
+  <details>
   <summar>more</summary>
   # glamor
 
@@ -13663,22 +13665,22 @@ profit, profit
 
 I get it
 
-  </detail>
+  </details>
   <table>
     <tr>
       <td><h4>helmet</h4></td>
       <td>[object Object]</td>
-      <td>:heart_green: 3.9.0</td>
+      <td>:green_heart: 3.9.0</td>
     </tr>
   </table>
 
   :earth_africa: [Homepage](https://helmetjs.github.io/)
-  :github: [Repository](undefined)
+  :octocat: [Repository](undefined)
   
 
   undefined
 
-  <detail>
+  <details>
   <summar>more</summary>
   Helmet
 ======
@@ -13759,22 +13761,22 @@ Helmet is a collection of 12 smaller middleware functions that set HTTP headers.
 
 You can see more in [the documentation](https://helmetjs.github.io/docs/).
 
-  </detail>
+  </details>
   <table>
     <tr>
       <td><h4>highcharts-no-data-to-display</h4></td>
       <td>[object Object]</td>
-      <td>:heart_green: 0.1.2</td>
+      <td>:green_heart: 0.1.2</td>
     </tr>
   </table>
 
   :earth_africa: [Homepage](undefined)
-  :github: [Repository](undefined)
+  :octocat: [Repository](undefined)
   
 
   undefined
 
-  <detail>
+  <details>
   <summar>more</summary>
   # highcharts-no-data-to-display
 This is just a highcharts-no-data-to-display module copied from highcharts-release v0.1.2.
@@ -13809,22 +13811,22 @@ Issues with the way modules were generated [should be reported to publish-highch
 
 
 
-  </detail>
+  </details>
   <table>
     <tr>
       <td><h4>history</h4></td>
       <td>[object Object]</td>
-      <td>:heart_green: 4.7.2</td>
+      <td>:green_heart: 4.7.2</td>
     </tr>
   </table>
 
   :earth_africa: [Homepage](https://github.com/ReactTraining/history#readme)
-  :github: [Repository](undefined)
+  :octocat: [Repository](undefined)
   
 
   undefined
 
-  <detail>
+  <details>
   <summar>more</summary>
   # history [![Travis][build-badge]][build] [![npm package][npm-badge]][npm]
 
@@ -14094,22 +14096,22 @@ A big thank-you to [Dan Shaw](https://www.npmjs.com/~dshaw) for letting us use t
 
 Also, thanks to [BrowserStack](https://www.browserstack.com/) for providing the infrastructure that allows us to run our build in real browsers.
 
-  </detail>
+  </details>
   <table>
     <tr>
       <td><h4>immutable</h4></td>
       <td>[object Object]</td>
-      <td>:heart_green: 3.8.2</td>
+      <td>:green_heart: 3.8.2</td>
     </tr>
   </table>
 
   :earth_africa: [Homepage](https://facebook.github.com/immutable-js)
-  :github: [Repository](undefined)
+  :octocat: [Repository](undefined)
   
 
   undefined
 
-  <detail>
+  <details>
   <summar>more</summary>
   Immutable collections for JavaScript
 ====================================
@@ -14586,22 +14588,22 @@ License
 
 Immutable.js is [MIT-licensed](https://github.com/facebook/immutable-js/blob/master/LICENSE).
 
-  </detail>
+  </details>
   <table>
     <tr>
       <td><h4>isomorphic-fetch</h4></td>
       <td>[object Object]</td>
-      <td>:heart_green: 2.2.1</td>
+      <td>:green_heart: 2.2.1</td>
     </tr>
   </table>
 
   :earth_africa: [Homepage](https://github.com/matthew-andrews/isomorphic-fetch/issues)
-  :github: [Repository](undefined)
+  :octocat: [Repository](undefined)
   
 
   undefined
 
-  <detail>
+  <details>
   <summar>more</summary>
   isomorphic-fetch [![Build Status](https://travis-ci.org/matthew-andrews/isomorphic-fetch.svg?branch=master)](https://travis-ci.org/matthew-andrews/isomorphic-fetch)
 ================
@@ -14649,22 +14651,22 @@ fetch('//offline-news-api.herokuapp.com/stories')
 
 All open source code released by FT Labs is licenced under the MIT licence.  Based on [the fine work by](https://github.com/github/fetch/pull/31) **[jxck](https://github.com/Jxck)**.
 
-  </detail>
+  </details>
   <table>
     <tr>
       <td><h4>jest</h4></td>
       <td>[object Object]</td>
-      <td>:heart_green: 21.2.1</td>
+      <td>:green_heart: 21.2.1</td>
     </tr>
   </table>
 
   :earth_africa: [Homepage](http://facebook.github.io/jest/)
-  :github: [Repository](undefined)
+  :octocat: [Repository](undefined)
   
 
   undefined
 
-  <detail>
+  <details>
   <summar>more</summary>
   # Jest
 
@@ -14678,22 +14680,22 @@ All open source code released by FT Labs is licenced under the MIT licence.  Bas
 
 Read More: http://facebook.github.io/jest/
 
-  </detail>
+  </details>
   <table>
     <tr>
       <td><h4>jquery-param</h4></td>
       <td>[object Object]</td>
-      <td>:heart_green: 0.2.0</td>
+      <td>:green_heart: 0.2.0</td>
     </tr>
   </table>
 
   :earth_africa: [Homepage](https://github.com/knowledgecode/jquery-param)
-  :github: [Repository](undefined)
+  :octocat: [Repository](undefined)
   
 
   undefined
 
-  <detail>
+  <details>
   <summar>more</summary>
   # jquery-param [![Circle CI](https://circleci.com/gh/knowledgecode/jquery-param.svg?style=shield)](https://circleci.com/gh/knowledgecode/jquery-param)
 
@@ -14743,22 +14745,22 @@ Chrome, Firefox, Safari, Opera, and Internet Explorer 6+.
 ## License
 MIT
 
-  </detail>
+  </details>
   <table>
     <tr>
       <td><h4>js-sha512</h4></td>
       <td>[object Object]</td>
-      <td>:heart_green: 0.5.0</td>
+      <td>:green_heart: 0.5.0</td>
     </tr>
   </table>
 
   :earth_africa: [Homepage](https://github.com/emn178/js-sha512)
-  :github: [Repository](undefined)
+  :octocat: [Repository](undefined)
   
 
   undefined
 
-  <detail>
+  <details>
   <summar>more</summary>
   # js-sha512
 [![Build Status](https://travis-ci.org/emn178/js-sha512.svg?branch=master)](https://travis-ci.org/emn178/js-sha512)
@@ -14855,22 +14857,22 @@ The project is released under the [MIT license](http://www.opensource.org/licens
 The project's website is located at https://github.com/emn178/js-sha512  
 Author: Chen, Yi-Cyuan (emn178@gmail.com)
 
-  </detail>
+  </details>
   <table>
     <tr>
       <td><h4>lodash</h4></td>
       <td>[object Object]</td>
-      <td>:heart_green: 4.17.4</td>
+      <td>:green_heart: 4.17.4</td>
     </tr>
   </table>
 
   :earth_africa: [Homepage](https://lodash.com/)
-  :github: [Repository](undefined)
+  :octocat: [Repository](undefined)
   
 
   undefined
 
-  <detail>
+  <details>
   <summar>more</summary>
   # lodash v4.17.4
 
@@ -14912,22 +14914,22 @@ Install [n_](https://www.npmjs.com/package/n_) for Lodash use in the Node.js < 6
 Tested in Chrome 54-55, Firefox 49-50, IE 11, Edge 14, Safari 9-10, Node.js 6-7, & PhantomJS 2.1.1.<br>
 Automated [browser](https://saucelabs.com/u/lodash) & [CI](https://travis-ci.org/lodash/lodash/) test runs are available.
 
-  </detail>
+  </details>
   <table>
     <tr>
       <td><h4>md5</h4></td>
       <td>[object Object]</td>
-      <td>:heart_green: 2.2.1</td>
+      <td>:green_heart: 2.2.1</td>
     </tr>
   </table>
 
   :earth_africa: [Homepage](https://github.com/pvorb/node-md5#readme)
-  :github: [Repository](undefined)
+  :octocat: [Repository](undefined)
   
 
   undefined
 
-  <detail>
+  <details>
   <summar>more</summary>
   # MD5
 
@@ -15038,22 +15040,22 @@ ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
 SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 ~~~
 
-  </detail>
+  </details>
   <table>
     <tr>
       <td><h4>measured</h4></td>
       <td>[object Object]</td>
-      <td>:heart_green: 1.1.0</td>
+      <td>:green_heart: 1.1.0</td>
     </tr>
   </table>
 
   :earth_africa: [Homepage](https://github.com/felixge/node-measured)
-  :github: [Repository](undefined)
+  :octocat: [Repository](undefined)
   
 
   undefined
 
-  <detail>
+  <details>
   <summar>more</summary>
   # measured
 
@@ -15313,22 +15315,22 @@ http.createServer(function(req, res) {
 
 This module is licensed under the MIT license.
 
-  </detail>
+  </details>
   <table>
     <tr>
       <td><h4>method-override</h4></td>
       <td>[object Object]</td>
-      <td>:heart_green: 2.3.10</td>
+      <td>:green_heart: 2.3.10</td>
     </tr>
   </table>
 
   :earth_africa: [Homepage](https://github.com/expressjs/method-override#readme)
-  :github: [Repository](undefined)
+  :octocat: [Repository](undefined)
   
 
   undefined
 
-  <detail>
+  <details>
   <summar>more</summary>
   # method-override
 
@@ -15514,22 +15516,22 @@ Example call with query override using HTML `<form>`:
 [gratipay-image]: https://img.shields.io/gratipay/dougwilson.svg
 [gratipay-url]: https://www.gratipay.com/dougwilson/
 
-  </detail>
+  </details>
   <table>
     <tr>
       <td><h4>moment</h4></td>
       <td>[object Object]</td>
-      <td>:heart_green: 2.19.1</td>
+      <td>:green_heart: 2.19.1</td>
     </tr>
   </table>
 
   :earth_africa: [Homepage](http://momentjs.com)
-  :github: [Repository](undefined)
+  :octocat: [Repository](undefined)
   
 
   undefined
 
-  <detail>
+  <details>
   <summar>more</summary>
   [![Join the chat at https://gitter.im/moment/moment](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/moment/moment?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
@@ -15593,22 +15595,22 @@ Moment.js is freely distributable under the terms of the [MIT license](https://g
 [travis-url]: http://travis-ci.org/moment/moment
 [travis-image]: http://img.shields.io/travis/moment/moment/develop.svg?style=flat
 
-  </detail>
+  </details>
   <table>
     <tr>
       <td><h4>msgpack-lite</h4></td>
       <td>[object Object]</td>
-      <td>:heart_green: 0.1.26</td>
+      <td>:green_heart: 0.1.26</td>
     </tr>
   </table>
 
   :earth_africa: [Homepage](https://github.com/kawanet/msgpack-lite)
-  :github: [Repository](undefined)
+  :octocat: [Repository](undefined)
   
 
   undefined
 
-  <detail>
+  <details>
   <summar>more</summary>
   # msgpack-lite [![npm version](https://badge.fury.io/js/msgpack-lite.svg)](http://badge.fury.io/js/msgpack-lite) [![Build Status](https://travis-ci.org/kawanet/msgpack-lite.svg?branch=master)](https://travis-ci.org/kawanet/msgpack-lite)
 
@@ -16044,22 +16046,22 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-  </detail>
+  </details>
   <table>
     <tr>
       <td><h4>nconf</h4></td>
       <td>[object Object]</td>
-      <td>:heart_green: 0.8.5</td>
+      <td>:green_heart: 0.8.5</td>
     </tr>
   </table>
 
   :earth_africa: [Homepage](https://github.com/flatiron/nconf#readme)
-  :github: [Repository](undefined)
+  :octocat: [Repository](undefined)
   
 
   undefined
 
-  <detail>
+  <details>
   <summar>more</summary>
   # nconf
 
@@ -16386,22 +16388,22 @@ Tests are written in vows and give complete coverage of all APIs and storage eng
 
 [0]: http://github.com/indexzero/nconf-redis
 
-  </detail>
+  </details>
   <table>
     <tr>
       <td><h4>numeral</h4></td>
       <td>[object Object]</td>
-      <td>:heart_green: 2.0.6</td>
+      <td>:green_heart: 2.0.6</td>
     </tr>
   </table>
 
   :earth_africa: [Homepage](http://numeraljs.com)
-  :github: [Repository](undefined)
+  :octocat: [Repository](undefined)
   
 
   undefined
 
-  <detail>
+  <details>
   <summar>more</summary>
   # [Numeral.js](http://numeraljs.com/)
 
@@ -16707,22 +16709,22 @@ The above copyright notice and this permission notice shall be included in all c
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-  </detail>
+  </details>
   <table>
     <tr>
       <td><h4>object-assign</h4></td>
       <td>[object Object]</td>
-      <td>:heart_green: 4.1.1</td>
+      <td>:green_heart: 4.1.1</td>
     </tr>
   </table>
 
   :earth_africa: [Homepage](https://github.com/sindresorhus/object-assign#readme)
-  :github: [Repository](undefined)
+  :octocat: [Repository](undefined)
   
 
   undefined
 
-  <detail>
+  <details>
   <summar>more</summary>
   # object-assign [![Build Status](https://travis-ci.org/sindresorhus/object-assign.svg?branch=master)](https://travis-ci.org/sindresorhus/object-assign)
 
@@ -16786,22 +16788,22 @@ Assigns enumerable own properties of `source` objects to the `target` object and
 
 MIT © [Sindre Sorhus](https://sindresorhus.com)
 
-  </detail>
+  </details>
   <table>
     <tr>
       <td><h4>observ</h4></td>
       <td>[object Object]</td>
-      <td>:heart_green: 0.2.0</td>
+      <td>:green_heart: 0.2.0</td>
     </tr>
   </table>
 
   :earth_africa: [Homepage](https://github.com/Raynos/observ)
-  :github: [Repository](undefined)
+  :octocat: [Repository](undefined)
   
 
   undefined
 
-  <detail>
+  <details>
   <summar>more</summary>
   # observ
 
@@ -16910,22 +16912,22 @@ observ := (A) => Observable<A>
   [13]: http://nodei.co/npm/observ.png
   [14]: http://nodei.co/npm/observ
 
-  </detail>
+  </details>
   <table>
     <tr>
       <td><h4>os</h4></td>
       <td>[object Object]</td>
-      <td>:heart_green: 0.1.1</td>
+      <td>:green_heart: 0.1.1</td>
     </tr>
   </table>
 
   :earth_africa: [Homepage](https://github.com/DiegoRBaquero/node-os#readme)
-  :github: [Repository](undefined)
+  :octocat: [Repository](undefined)
   
 
   undefined
 
-  <detail>
+  <details>
   <summar>more</summary>
   # node-os [![npm](https://img.shields.io/npm/v/os.svg)](https://www.npmjs.com/package/os) [![npm](https://img.shields.io/npm/dm/os.svg)](https://www.npmjs.com/package/os) [![npm](https://img.shields.io/npm/l/os.svg)](LICENSE)
 #### NodeJS Core Module Extended
@@ -16952,22 +16954,22 @@ https://nodejs.org/api/os.html
 
 MIT. Copyright (c) [Diego Rodríguez Baquero](https://diegorbaquero.com).
 
-  </detail>
+  </details>
   <table>
     <tr>
       <td><h4>passport</h4></td>
       <td>[object Object]</td>
-      <td>:heart_green: 0.4.0</td>
+      <td>:green_heart: 0.4.0</td>
     </tr>
   </table>
 
   :earth_africa: [Homepage](http://passportjs.org/)
-  :github: [Repository](undefined)
+  :octocat: [Repository](undefined)
   
 
   undefined
 
-  <detail>
+  <details>
   <summar>more</summary>
   [![passport banner](http://cdn.auth0.com/img/passport-banner-github.png)](http://passportjs.org)
 
@@ -17147,22 +17149,22 @@ This project is supported by ![](http://passportjs.org/images/supported_logo.svg
 Copyright (c) 2011-2015 Jared Hanson <[http://jaredhanson.net/](http://jaredhanson.net/)>
 
 
-  </detail>
+  </details>
   <table>
     <tr>
       <td><h4>passport-local</h4></td>
       <td>[object Object]</td>
-      <td>:heart_green: 1.0.0</td>
+      <td>:green_heart: 1.0.0</td>
     </tr>
   </table>
 
   :earth_africa: [Homepage](undefined)
-  :github: [Repository](undefined)
+  :octocat: [Repository](undefined)
   
 
   undefined
 
-  <detail>
+  <details>
   <summar>more</summary>
   # passport-local
 
@@ -17238,22 +17240,22 @@ For complete, working examples, refer to the multiple [examples](https://github.
 
 Copyright (c) 2011-2014 Jared Hanson <[http://jaredhanson.net/](http://jaredhanson.net/)>
 
-  </detail>
+  </details>
   <table>
     <tr>
       <td><h4>pkginfo</h4></td>
       <td>[object Object]</td>
-      <td>:heart_green: 0.4.1</td>
+      <td>:green_heart: 0.4.1</td>
     </tr>
   </table>
 
   :earth_africa: [Homepage](https://github.com/indexzero/node-pkginfo#readme)
-  :github: [Repository](undefined)
+  :octocat: [Repository](undefined)
   
 
   undefined
 
-  <detail>
+  <details>
   <summar>more</summary>
   # node-pkginfo
 
@@ -17336,22 +17338,22 @@ Tests are written in [vows][1] and give complete coverage of all APIs.
 #### Author: [Charlie Robbins](http://github.com/indexzero)
 #### License: MIT
 
-  </detail>
+  </details>
   <table>
     <tr>
       <td><h4>prop-types</h4></td>
       <td>[object Object]</td>
-      <td>:heart_green: 15.6.0</td>
+      <td>:green_heart: 15.6.0</td>
     </tr>
   </table>
 
   :earth_africa: [Homepage](https://facebook.github.io/react/)
-  :github: [Repository](undefined)
+  :octocat: [Repository](undefined)
   
 
   undefined
 
-  <detail>
+  <details>
   <summar>more</summary>
   # prop-types
 
@@ -17616,22 +17618,22 @@ PropTypes.checkPropTypes(myPropTypes, props, 'prop', 'MyComponent');
 // `MyComponent`, expected `number`.
 ```
 
-  </detail>
+  </details>
   <table>
     <tr>
       <td><h4>pubsub-js</h4></td>
       <td>[object Object]</td>
-      <td>:heart_green: 1.5.7</td>
+      <td>:green_heart: 1.5.7</td>
     </tr>
   </table>
 
   :earth_africa: [Homepage](https://github.com/mroderick/PubSubJS#readme)
-  :github: [Repository](undefined)
+  :octocat: [Repository](undefined)
   
 
   undefined
 
-  <detail>
+  <details>
   <summar>more</summary>
   # PubSubJS
 
@@ -17882,22 +17884,22 @@ These are a few alternative projects that also implement topic based publish sub
 * http://radio.uxder.com/ — oriented towards 'channels', free of dependencies
 * https://github.com/pmelander/Subtopic - supports vanilla, underscore, jQuery and is even available in NuGet
 
-  </detail>
+  </details>
   <table>
     <tr>
       <td><h4>ramda</h4></td>
       <td>[object Object]</td>
-      <td>:heart_green: 0.25.0</td>
+      <td>:green_heart: 0.25.0</td>
     </tr>
   </table>
 
   :earth_africa: [Homepage](http://ramdajs.com/)
-  :github: [Repository](undefined)
+  :octocat: [Repository](undefined)
   
 
   undefined
 
-  <detail>
+  <details>
   <summar>more</summary>
   Ramda
 =============
@@ -18115,22 +18117,22 @@ Thanks to [J. C. Phillipps](http://www.jcphillipps.com) for the Ramda logo.
 Ramda logo artwork &copy; 2014 J. C. Phillipps. Licensed Creative Commons 
 [CC BY-NC-SA 3.0](http://creativecommons.org/licenses/by-nc-sa/3.0/).
 
-  </detail>
+  </details>
   <table>
     <tr>
       <td><h4>rc-slider</h4></td>
       <td>[object Object]</td>
-      <td>:heart_green: 8.3.4</td>
+      <td>:green_heart: 8.3.4</td>
     </tr>
   </table>
 
   :earth_africa: [Homepage](http://github.com/react-component/gesture/)
-  :github: [Repository](undefined)
+  :octocat: [Repository](undefined)
   
 
   undefined
 
-  <detail>
+  <details>
   <summar>more</summary>
   # rc-slider
 ---
@@ -18290,22 +18292,22 @@ Online examples: [http://react-component.github.io/slider/](http://react-compone
 
 `rc-slider` is released under the MIT license.
 
-  </detail>
+  </details>
   <table>
     <tr>
       <td><h4>react</h4></td>
       <td>[object Object]</td>
-      <td>:heart_green: 16.0.0</td>
+      <td>:green_heart: 16.0.0</td>
     </tr>
   </table>
 
   :earth_africa: [Homepage](https://facebook.github.io/react/)
-  :github: [Repository](undefined)
+  :octocat: [Repository](undefined)
   
 
   undefined
 
-  <detail>
+  <details>
   <summar>more</summary>
   # react
 
@@ -18324,44 +18326,44 @@ To use React in production mode, set the environment variable `NODE_ENV` to `pro
 var React = require('react');
 ```
 
-  </detail>
+  </details>
   <table>
     <tr>
       <td><h4>react-addons-perf</h4></td>
       <td>[object Object]</td>
-      <td>:heart_green: 15.4.2</td>
+      <td>:green_heart: 15.4.2</td>
     </tr>
   </table>
 
   :earth_africa: [Homepage](https://github.com/facebook/react#readme)
-  :github: [Repository](undefined)
+  :octocat: [Repository](undefined)
   
 
   undefined
 
-  <detail>
+  <details>
   <summar>more</summary>
   # react-addons-perf
 
 This package provides the React Perf add-on.
 
 See <https://facebook.github.io/react/docs/perf.html> for more information.
-  </detail>
+  </details>
   <table>
     <tr>
       <td><h4>react-addons-pure-render-mixin</h4></td>
       <td>[object Object]</td>
-      <td>:heart_green: 15.6.2</td>
+      <td>:green_heart: 15.6.2</td>
     </tr>
   </table>
 
   :earth_africa: [Homepage](https://github.com/facebook/react#readme)
-  :github: [Repository](undefined)
+  :octocat: [Repository](undefined)
   
 
   undefined
 
-  <detail>
+  <details>
   <summar>more</summary>
   # react-addons-pure-render-mixin
 
@@ -18416,22 +18418,22 @@ Under the hood, the mixin implements [shouldComponentUpdate](https://facebook.gi
 >
 > Furthermore, `shouldComponentUpdate` skips updates for the whole component subtree. Make sure all the children components are also "pure".
 
-  </detail>
+  </details>
   <table>
     <tr>
       <td><h4>react-addons-shallow-compare</h4></td>
       <td>[object Object]</td>
-      <td>:heart_green: 15.6.2</td>
+      <td>:green_heart: 15.6.2</td>
     </tr>
   </table>
 
   :earth_africa: [Homepage](https://github.com/facebook/react#readme)
-  :github: [Repository](undefined)
+  :octocat: [Repository](undefined)
   
 
   undefined
 
-  <detail>
+  <details>
   <summar>more</summary>
   # react-addons-shallow-compare
 
@@ -18487,22 +18489,22 @@ It does this by iterating on the keys of the objects being compared and returnin
 `shallowCompare` returns `true` if the shallow comparison for props or state fails and therefore the component should update.  
 `shallowCompare` returns `false` if the shallow comparison for props and state both pass and therefore the component does not need to update.
 
-  </detail>
+  </details>
   <table>
     <tr>
       <td><h4>react-addons-test-utils</h4></td>
       <td>[object Object]</td>
-      <td>:heart_green: 15.6.2</td>
+      <td>:green_heart: 15.6.2</td>
     </tr>
   </table>
 
   :earth_africa: [Homepage](https://github.com/facebook/react#readme)
-  :github: [Repository](undefined)
+  :octocat: [Repository](undefined)
   
 
   undefined
 
-  <detail>
+  <details>
   <summar>more</summary>
   # react-addons-test-utils
 
@@ -18513,22 +18515,22 @@ See <https://facebook.github.io/react/docs/test-utils.html> for more information
 This package is deprecated as of version 15.5.0:
 * TestUtils have been moved to `react-dom/test-utils`
 * Shallow renderer has been moved to `react-test-renderer/shallow`
-  </detail>
+  </details>
   <table>
     <tr>
       <td><h4>react-autosuggest</h4></td>
       <td>[object Object]</td>
-      <td>:heart_green: 9.3.2</td>
+      <td>:green_heart: 9.3.2</td>
     </tr>
   </table>
 
   :earth_africa: [Homepage](https://github.com/moroshko/react-autosuggest#readme)
-  :github: [Repository](undefined)
+  :octocat: [Repository](undefined)
   
 
   undefined
 
-  <detail>
+  <details>
   <summar>more</summary>
   [![Build Status](https://img.shields.io/codeship/41810250-aa07-0132-fbf4-4e62e8945e03/master.svg?style=flat-square)](https://codeship.com/projects/67868)
 [![Contributors](https://img.shields.io/github/contributors/moroshko/react-autosuggest.svg?style=flat-square)](https://github.com/moroshko/react-autosuggest/graphs/contributors)
@@ -19166,22 +19168,22 @@ Now, open `http://localhost:3000/demo/dist/index.html` and start hacking!
 
 [MIT](http://moroshko.mit-license.org)
 
-  </detail>
+  </details>
   <table>
     <tr>
       <td><h4>react-bem-helper</h4></td>
       <td>[object Object]</td>
-      <td>:heart_green: 1.4.1</td>
+      <td>:green_heart: 1.4.1</td>
     </tr>
   </table>
 
   :earth_africa: [Homepage](https://github.com/marcohamersma/react-bem-helper)
-  :github: [Repository](undefined)
+  :octocat: [Repository](undefined)
   
 
   undefined
 
-  <detail>
+  <details>
   <summar>more</summary>
   # React BEM helper
 [![npm version](https://badge.fury.io/js/react-bem-helper.svg)](http://badge.fury.io/js/react-bem-helper) [![Build Status](https://travis-ci.org/marcohamersma/react-bem-helper.svg?branch=master)](https://travis-ci.org/marcohamersma/react-bem-helper)
@@ -19492,22 +19494,22 @@ module.exports = React.createClass({
 ## License
 MIT License
 
-  </detail>
+  </details>
   <table>
     <tr>
       <td><h4>react-bootstrap</h4></td>
       <td>[object Object]</td>
-      <td>:heart_green: 0.31.5</td>
+      <td>:green_heart: 0.31.5</td>
     </tr>
   </table>
 
   :earth_africa: [Homepage](https://react-bootstrap.github.io/)
-  :github: [Repository](undefined)
+  :octocat: [Repository](undefined)
   
 
   undefined
 
-  <detail>
+  <details>
   <summar>more</summary>
   # React-Bootstrap [![Travis][build-badge]][build] [![npm][npm-badge]][npm]
 
@@ -19566,22 +19568,22 @@ Yes please! See the [contributing guidelines][contributing] for details.
 [discord-badge]: https://img.shields.io/badge/Discord-Join%20chat%20%E2%86%92-738bd7.svg
 [discord]: https://discord.gg/0ZcbPKXt5bXLs9XK
 
-  </detail>
+  </details>
   <table>
     <tr>
       <td><h4>react-custom-scroll</h4></td>
       <td>[object Object]</td>
-      <td>:heart_green: 2.0.1</td>
+      <td>:green_heart: 2.0.1</td>
     </tr>
   </table>
 
   :earth_africa: [Homepage](https://github.com/rommguy/react-custom-scroll#readme)
-  :github: [Repository](undefined)
+  :octocat: [Repository](undefined)
   
 
   undefined
 
-  <detail>
+  <details>
   <summar>more</summary>
   [![NPM version][npm-image]][npm-url]
 
@@ -19718,22 +19720,22 @@ karma start
 [downloads-image]: http://img.shields.io/npm/dm/react-custom-scroll.svg?style=flat-square
 [downloads-url]: https://npmjs.org/package/react-custom-scroll
 
-  </detail>
+  </details>
   <table>
     <tr>
       <td><h4>react-datepicker</h4></td>
       <td>[object Object]</td>
-      <td>:heart_green: 0.57.0</td>
+      <td>:green_heart: 0.57.0</td>
     </tr>
   </table>
 
   :earth_africa: [Homepage](https://github.com/Hacker0x01/react-datepicker)
-  :github: [Repository](undefined)
+  :octocat: [Repository](undefined)
   
 
   undefined
 
-  <detail>
+  <details>
   <summar>more</summary>
   # React Date Picker
 
@@ -19885,22 +19887,22 @@ The examples are hosted within the docs folder and are ran in the simple add tha
 
 Copyright (c) 2016 HackerOne Inc. and individual contributors. Licensed under MIT license, see [LICENSE](LICENSE) for the full license.
 
-  </detail>
+  </details>
   <table>
     <tr>
       <td><h4>react-dnd</h4></td>
       <td>[object Object]</td>
-      <td>:heart_green: 2.5.4</td>
+      <td>:green_heart: 2.5.4</td>
     </tr>
   </table>
 
   :earth_africa: [Homepage](https://github.com/react-dnd/react-dnd#readme)
-  :github: [Repository](undefined)
+  :octocat: [Repository](undefined)
   
 
   undefined
 
-  <detail>
+  <details>
   <summar>more</summary>
   [![npm version](https://img.shields.io/npm/v/react-dnd.svg?style=flat-square)](https://www.npmjs.com/package/react-dnd)
 [![npm downloads](https://img.shields.io/npm/dm/react-dnd.svg?style=flat-square)](https://www.npmjs.com/package/react-dnd)
@@ -19926,22 +19928,22 @@ https://github.com/react-dnd/react-dnd/releases
 
 Big thanks to [BrowserStack](https://www.browserstack.com) for letting the maintainers use their service to debug browser issues.
 
-  </detail>
+  </details>
   <table>
     <tr>
       <td><h4>react-dnd-html5-backend</h4></td>
       <td>[object Object]</td>
-      <td>:heart_green: 2.5.4</td>
+      <td>:green_heart: 2.5.4</td>
     </tr>
   </table>
 
   :earth_africa: [Homepage](https://github.com/react-dnd/react-dnd#readme)
-  :github: [Repository](undefined)
+  :octocat: [Repository](undefined)
   
 
   undefined
 
-  <detail>
+  <details>
   <summar>more</summary>
   [![npm package](https://img.shields.io/npm/v/react-dnd-html5-backend.svg?style=flat-square)](https://www.npmjs.org/package/react-dnd-html5-backend)
 [![Build Status](https://travis-ci.org/react-dnd/react-dnd-html5-backend.svg?branch=master)](https://travis-ci.org/react-dnd/react-dnd-html5-backend)
@@ -19980,22 +19982,22 @@ Unfortunately the browser bugs, inconsistencies, and regressions come up from ti
 
 MIT
 
-  </detail>
+  </details>
   <table>
     <tr>
       <td><h4>react-document-title</h4></td>
       <td>[object Object]</td>
-      <td>:heart_green: 2.0.3</td>
+      <td>:green_heart: 2.0.3</td>
     </tr>
   </table>
 
   :earth_africa: [Homepage](https://github.com/gaearon/react-document-title)
-  :github: [Repository](undefined)
+  :octocat: [Repository](undefined)
   
 
   undefined
 
-  <detail>
+  <details>
   <summar>more</summary>
   React Document Title
 ====================
@@ -20077,22 +20079,22 @@ Because this component keeps track of mounted instances, **you have to make sure
 
 Looking for something more powerful? Check out [React Helmet](https://github.com/nfl/react-helmet)!
 
-  </detail>
+  </details>
   <table>
     <tr>
       <td><h4>react-dom</h4></td>
       <td>[object Object]</td>
-      <td>:heart_green: 16.0.0</td>
+      <td>:green_heart: 16.0.0</td>
     </tr>
   </table>
 
   :earth_africa: [Homepage](https://facebook.github.io/react/)
-  :github: [Repository](undefined)
+  :octocat: [Repository](undefined)
   
 
   undefined
 
-  <detail>
+  <details>
   <summar>more</summary>
   # `react-dom`
 
@@ -20149,22 +20151,22 @@ ReactDOMServer.renderToString(<MyComponent />);
 - `renderToString`
 - `renderToStaticMarkup`
 
-  </detail>
+  </details>
   <table>
     <tr>
       <td><h4>react-highcharts</h4></td>
       <td>[object Object]</td>
-      <td>:heart_green: 13.0.0</td>
+      <td>:green_heart: 13.0.0</td>
     </tr>
   </table>
 
   :earth_africa: [Homepage](https://github.com/kirjs/react-highcharts#readme)
-  :github: [Repository](undefined)
+  :octocat: [Repository](undefined)
   
 
   undefined
 
-  <detail>
+  <details>
   <summar>more</summary>
   react-highcharts
 ================
@@ -20285,22 +20287,22 @@ npm run demo
 ```
 Point your browser at [http://localhost:8080](http://localhost:8080)
 
-  </detail>
+  </details>
   <table>
     <tr>
       <td><h4>react-json-inspector</h4></td>
       <td>[object Object]</td>
-      <td>:heart_green: 7.1.0</td>
+      <td>:green_heart: 7.1.0</td>
     </tr>
   </table>
 
   :earth_africa: [Homepage](https://github.com/Lapple/react-json-inspector#readme)
-  :github: [Repository](undefined)
+  :octocat: [Repository](undefined)
   
 
   undefined
 
-  <detail>
+  <details>
   <summar>more</summary>
   # React JSON Inspector Component
 
@@ -20393,40 +20395,40 @@ Optional parameters for filterer (search). Must be an object.
 
 - `ignoreCase`, Set to `true` to enable case insensitivity in search. Defaults to `false`.
 
-  </detail>
+  </details>
   <table>
     <tr>
       <td><h4>react-relay</h4></td>
       <td>[object Object]</td>
-      <td>:heart_green: 1.4.1</td>
+      <td>:green_heart: 1.4.1</td>
     </tr>
   </table>
 
   :earth_africa: [Homepage](https://facebook.github.io/relay/)
-  :github: [Repository](undefined)
+  :octocat: [Repository](undefined)
   
 
   undefined
 
-  <detail>
+  <details>
   <summar>more</summary>
   ERROR: No README data found!
-  </detail>
+  </details>
   <table>
     <tr>
       <td><h4>react-reorder</h4></td>
       <td>[object Object]</td>
-      <td>:heart_green: 3.0.0-alpha.2</td>
+      <td>:green_heart: 3.0.0-alpha.2</td>
     </tr>
   </table>
 
   :earth_africa: [Homepage](https://github.com/JakeSidSmith/react-reorder#readme)
-  :github: [Repository](undefined)
+  :octocat: [Repository](undefined)
   
 
   undefined
 
-  <detail>
+  <details>
   <summar>more</summary>
   # React Reorder [![CircleCI](https://circleci.com/gh/JakeSidSmith/react-reorder.svg?style=svg)](https://circleci.com/gh/JakeSidSmith/react-reorder)
 
@@ -20557,22 +20559,22 @@ onReorderGroup (event, previousIndex, nextIndex, fromId, toId) {
 
 * Version `3.x` tested and working with React `15`, but should be backward compatible at least a couple of versions.
 
-  </detail>
+  </details>
   <table>
     <tr>
       <td><h4>react-router</h4></td>
       <td>[object Object]</td>
-      <td>:heart_green: 4.2.0</td>
+      <td>:green_heart: 4.2.0</td>
     </tr>
   </table>
 
   :earth_africa: [Homepage](https://github.com/ReactTraining/react-router#readme)
-  :github: [Repository](undefined)
+  :octocat: [Repository](undefined)
   
 
   undefined
 
-  <detail>
+  <details>
   <summar>more</summary>
   # react-router
 
@@ -20615,22 +20617,22 @@ If you find a bug, please file an issue on [our issue tracker on GitHub](https:/
 
 React Router is built and maintained by [React Training](https://reacttraining.com).
 
-  </detail>
+  </details>
   <table>
     <tr>
       <td><h4>react-scroll</h4></td>
       <td>[object Object]</td>
-      <td>:heart_green: 1.6.1</td>
+      <td>:green_heart: 1.6.1</td>
     </tr>
   </table>
 
   :earth_africa: [Homepage](https://github.com/fisshy/react-scroll)
-  :github: [Repository](undefined)
+  :octocat: [Repository](undefined)
   
 
   undefined
 
-  <detail>
+  <details>
   <summar>more</summary>
   ## React Scroll
 
@@ -21072,22 +21074,22 @@ A good visual reference can be found at [easings.net](http://easings.net/)
 - Integrate react-scroll with react-router
 - Hash-scrolling.
 
-  </detail>
+  </details>
   <table>
     <tr>
       <td><h4>redis</h4></td>
       <td>[object Object]</td>
-      <td>:heart_green: 2.8.0</td>
+      <td>:green_heart: 2.8.0</td>
     </tr>
   </table>
 
   :earth_africa: [Homepage](https://github.com/NodeRedis/node_redis)
-  :github: [Repository](undefined)
+  :octocat: [Repository](undefined)
   
 
   undefined
 
-  <detail>
+  <details>
   <summar>more</summary>
   redis - a node.js redis client
 ===========================
@@ -22055,40 +22057,40 @@ give you the best redis experience possible.
 If you want to join our cause by help maintaining something, please don't
 hesitate to contact either one of us.
 
-  </detail>
+  </details>
   <table>
     <tr>
       <td><h4>relay-runtime</h4></td>
       <td>[object Object]</td>
-      <td>:heart_green: 1.4.1</td>
+      <td>:green_heart: 1.4.1</td>
     </tr>
   </table>
 
   :earth_africa: [Homepage](https://facebook.github.io/relay/)
-  :github: [Repository](undefined)
+  :octocat: [Repository](undefined)
   
 
   undefined
 
-  <detail>
+  <details>
   <summar>more</summary>
   ERROR: No README data found!
-  </detail>
+  </details>
   <table>
     <tr>
       <td><h4>request</h4></td>
       <td>[object Object]</td>
-      <td>:heart_green: 2.83.0</td>
+      <td>:green_heart: 2.83.0</td>
     </tr>
   </table>
 
   :earth_africa: [Homepage](https://github.com/request/request#readme)
-  :github: [Repository](undefined)
+  :octocat: [Repository](undefined)
   
 
   undefined
 
-  <detail>
+  <details>
   <summar>more</summary>
   
 # Request - Simplified HTTP client
@@ -23188,22 +23190,22 @@ request({url: 'http://www.google.com', jar: j}, function () {
 
 [back to top](#table-of-contents)
 
-  </detail>
+  </details>
   <table>
     <tr>
       <td><h4>request-promise</h4></td>
       <td>[object Object]</td>
-      <td>:heart_green: 4.2.2</td>
+      <td>:green_heart: 4.2.2</td>
     </tr>
   </table>
 
   :earth_africa: [Homepage](https://github.com/request/request-promise#readme)
-  :github: [Repository](undefined)
+  :octocat: [Repository](undefined)
   
 
   undefined
 
-  <detail>
+  <details>
   <summar>more</summary>
   <a href="http://promisesaplus.com/">
     <img src="https://promises-aplus.github.io/promises-spec/assets/logo-small.png" align="right" alt="Promises/A+ logo" />
@@ -23922,22 +23924,22 @@ In case you never heard about the [ISC license](http://en.wikipedia.org/wiki/ISC
 
 See the [LICENSE file](LICENSE) for details.
 
-  </detail>
+  </details>
   <table>
     <tr>
       <td><h4>response-time</h4></td>
       <td>[object Object]</td>
-      <td>:heart_green: 2.3.2</td>
+      <td>:green_heart: 2.3.2</td>
     </tr>
   </table>
 
   :earth_africa: [Homepage](https://github.com/expressjs/response-time)
-  :github: [Repository](undefined)
+  :octocat: [Repository](undefined)
   
 
   undefined
 
-  <detail>
+  <details>
   <summar>more</summary>
   # response-time
 
@@ -24077,22 +24079,22 @@ app.get('/', function (req, res) {
 [gratipay-image]: https://img.shields.io/gratipay/dougwilson.svg
 [gratipay-url]: https://www.gratipay.com/dougwilson/
 
-  </detail>
+  </details>
   <table>
     <tr>
       <td><h4>scrolling-element</h4></td>
       <td>[object Object]</td>
-      <td>:heart_green: 1.0.2</td>
+      <td>:green_heart: 1.0.2</td>
     </tr>
   </table>
 
   :earth_africa: [Homepage](https://github.com/yangg/scrolling-element#readme)
-  :github: [Repository](undefined)
+  :octocat: [Repository](undefined)
   
 
   undefined
 
-  <detail>
+  <details>
   <summar>more</summary>
   # document.scrollingElement
 
@@ -24121,22 +24123,22 @@ Thanks to Mathias Bynens for his [document.scrollElement](https://github.com/mat
 
 ## Liscense
 MIT
-  </detail>
+  </details>
   <table>
     <tr>
       <td><h4>serve-favicon</h4></td>
       <td>[object Object]</td>
-      <td>:heart_green: 2.4.5</td>
+      <td>:green_heart: 2.4.5</td>
     </tr>
   </table>
 
   :earth_africa: [Homepage](https://github.com/expressjs/serve-favicon#readme)
-  :github: [Repository](undefined)
+  :octocat: [Repository](undefined)
   
 
   undefined
 
-  <detail>
+  <details>
   <summar>more</summary>
   # serve-favicon
 
@@ -24278,22 +24280,22 @@ server.listen(3000)
 [gratipay-image]: https://img.shields.io/gratipay/dougwilson.svg
 [gratipay-url]: https://www.gratipay.com/dougwilson/
 
-  </detail>
+  </details>
   <table>
     <tr>
       <td><h4>shelljs</h4></td>
       <td>[object Object]</td>
-      <td>:heart_green: 0.7.8</td>
+      <td>:green_heart: 0.7.8</td>
     </tr>
   </table>
 
   :earth_africa: [Homepage](http://github.com/shelljs/shelljs)
-  :github: [Repository](undefined)
+  :octocat: [Repository](undefined)
   
 
   undefined
 
-  <detail>
+  <details>
   <summar>more</summary>
   # ShellJS - Unix shell commands for Node.js
 
@@ -25083,22 +25085,22 @@ Reset shell.config to the defaults:
 |:---:|:---:|
 | [Nate Fischer](https://github.com/nfischer) | [Brandon Freitag](http://github.com/freitagbr) |
 
-  </detail>
+  </details>
   <table>
     <tr>
       <td><h4>tinymce</h4></td>
       <td>[object Object]</td>
-      <td>:heart_green: 4.7.1</td>
+      <td>:green_heart: 4.7.1</td>
     </tr>
   </table>
 
   :earth_africa: [Homepage](undefined)
-  :github: [Repository](undefined)
+  :octocat: [Repository](undefined)
   
 
   undefined
 
-  <detail>
+  <details>
   <summar>more</summary>
   TinyMCE - The JavaScript Rich Text editor
 ==========================================
@@ -25171,22 +25173,22 @@ Docs are hosted on Github in the [tinymce-docs](https://github.com/tinymce/tinym
 
 [How to contribute](https://www.tinymce.com/docs/advanced/contributing-docs/) to the docs, including a style guide, can be found on the TinyMCE website.
 
-  </detail>
+  </details>
   <table>
     <tr>
       <td><h4>twix</h4></td>
       <td>[object Object]</td>
-      <td>:heart_green: 1.2.1</td>
+      <td>:green_heart: 1.2.1</td>
     </tr>
   </table>
 
   :earth_africa: [Homepage](http://icambron.github.io/twix.js/)
-  :github: [Repository](undefined)
+  :octocat: [Repository](undefined)
   
 
   undefined
 
-  <detail>
+  <details>
   <summar>more</summary>
   # Twix.js
 
@@ -25274,22 +25276,22 @@ Copyright 2012-2015 Isaac Cambron and contributors. Distributed under the MIT Li
 
 [phasers-image]: https://img.shields.io/badge/phasers-stun-brightgreen.svg?style=flat-square
 
-  </detail>
+  </details>
   <table>
     <tr>
       <td><h4>uglify-js</h4></td>
       <td>[object Object]</td>
-      <td>:heart_green: 3.1.5</td>
+      <td>:green_heart: 3.1.5</td>
     </tr>
   </table>
 
   :earth_africa: [Homepage](http://lisperator.net/uglifyjs)
-  :github: [Repository](undefined)
+  :octocat: [Repository](undefined)
   
 
   undefined
 
-  <detail>
+  <details>
   <summar>more</summary>
   UglifyJS 3
 ==========
@@ -26377,22 +26379,22 @@ To enable fast minify mode with the API use:
 UglifyJS.minify(code, { compress: false, mangle: true });
 ```
 
-  </detail>
+  </details>
   <table>
     <tr>
       <td><h4>url</h4></td>
       <td>[object Object]</td>
-      <td>:heart_green: 0.11.0</td>
+      <td>:green_heart: 0.11.0</td>
     </tr>
   </table>
 
   :earth_africa: [Homepage](https://github.com/defunctzombie/node-url#readme)
-  :github: [Repository](undefined)
+  :octocat: [Repository](undefined)
   
 
   undefined
 
-  <detail>
+  <details>
   <summar>more</summary>
   # node-url
 
@@ -26503,22 +26505,22 @@ an anchor tag.  Examples:
     url.resolve('http://example.com/', '/one')    // 'http://example.com/one'
     url.resolve('http://example.com/one', '/two') // 'http://example.com/two'
 
-  </detail>
+  </details>
   <table>
     <tr>
       <td><h4>uuid</h4></td>
       <td>[object Object]</td>
-      <td>:heart_green: 3.1.0</td>
+      <td>:green_heart: 3.1.0</td>
     </tr>
   </table>
 
   :earth_africa: [Homepage](https://github.com/kelektiv/node-uuid#readme)
-  :github: [Repository](undefined)
+  :octocat: [Repository](undefined)
   
 
   undefined
 
-  <detail>
+  <details>
   <summar>more</summary>
   # uuid [![Build Status](https://secure.travis-ci.org/kelektiv/node-uuid.svg?branch=master)](http://travis-ci.org/kelektiv/node-uuid) #
 
@@ -26748,22 +26750,22 @@ uuid(...);    // alias of uuid/v4
 
 The code for the legacy node-uuid package is available in the `node-uuid` branch.
 
-  </detail>
+  </details>
   <table>
     <tr>
       <td><h4>webpack</h4></td>
       <td>[object Object]</td>
-      <td>:heart_green: 3.8.1</td>
+      <td>:green_heart: 3.8.1</td>
     </tr>
   </table>
 
   :earth_africa: [Homepage](https://github.com/webpack/webpack)
-  :github: [Repository](undefined)
+  :octocat: [Repository](undefined)
   
 
   undefined
 
-  <detail>
+  <details>
   <summar>more</summary>
   <div align="center">
   <a href="https://github.com/webpack/webpack">
@@ -27405,22 +27407,22 @@ src="https://static.monei.net/monei-logo.svg" height="30" alt="MONEI"></a>
 <a href="https://opencollective.com/webpack/backer/57/website?requireActive=false" target="_blank"><img src="https://opencollective.com/webpack/backer/57/avatar.svg?requireActive=false"></a>
 <a href="https://opencollective.com/webpack/backer/58/website?requireActive=false" target="_blank"><img src="https://opencollective.com/webpack/backer/58/avatar.svg?requireActive=false"></a>
 <a href="https://opencollective.com/webpack/backer/59/website?requireActive=false" target="_blank"><img src="https://
-  </detail>
+  </details>
   <table>
     <tr>
       <td><h4>webpack-dev-server</h4></td>
       <td>[object Object]</td>
-      <td>:heart_green: 2.9.3</td>
+      <td>:green_heart: 2.9.3</td>
     </tr>
   </table>
 
   :earth_africa: [Homepage](http://github.com/webpack/webpack-dev-server)
-  :github: [Repository](undefined)
+  :octocat: [Repository](undefined)
   
 
   undefined
 
-  <detail>
+  <details>
   <summar>more</summary>
   <div align="center">
   <a href="https://github.com/webpack/webpack">
@@ -27595,24 +27597,24 @@ This project is heavily inspired by [peerigon/nof5](https://github.com/peerigon/
 [uglify-url]: https://github.com/webpack-contrib/uglifyjs-webpack-plugin
 [wjo-url]: https://github.com/webpack/webpack.js.org
 
-  </detail>
+  </details>
   ,### Dependencies of type optionalDependencies
 
 <table>
     <tr>
       <td><h4>fsevents</h4></td>
       <td>[object Object]</td>
-      <td>:heart_green: 1.1.2</td>
+      <td>:green_heart: 1.1.2</td>
     </tr>
   </table>
 
   :earth_africa: [Homepage](https://github.com/strongloop/fsevents)
-  :github: [Repository](undefined)
+  :octocat: [Repository](undefined)
   
 
   undefined
 
-  <detail>
+  <details>
   <summar>more</summary>
   # fsevents [![NPM](https://nodei.co/npm/fsevents.png)](https://nodei.co/npm/fsevents/)
 
@@ -27693,8 +27695,9 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 
-  </detail>
-  ### :alarm_clock: Missing Packages
+  </details>
+  
+### :alarm_clock: Missing Packages
 
 
       The following packages were not found on the npm registry. They might be private or no longer exist.- sm-api (2.10.7)
