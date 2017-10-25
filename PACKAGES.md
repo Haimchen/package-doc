@@ -5,7 +5,7 @@
 <table>
     <tr>
       <td><h4>assets-webpack-plugin</h4></td>
-      <td>[object Object]</td>
+      <td>3.5.1</td>
       <td>:green_heart: 3.5.1</td>
     </tr>
   </table>
@@ -14,7 +14,7 @@
   :octocat: [Repository](undefined)
   
 
-  undefined
+  Emits a json file with assets paths
 
   <details>
   <summar>more</summary>
@@ -291,7 +291,7 @@ npm test
   <table>
     <tr>
       <td><h4>autoprefixer</h4></td>
-      <td>[object Object]</td>
+      <td>7.1.2</td>
       <td>:green_heart: 7.1.6</td>
     </tr>
   </table>
@@ -300,7 +300,7 @@ npm test
   :octocat: [Repository](undefined)
   
 
-  undefined
+  Parse CSS and add vendor prefixes to CSS rules using values from the Can I Use website
 
   <details>
   <summar>more</summary>
@@ -895,7 +895,7 @@ console.log(info);
   <table>
     <tr>
       <td><h4>aws-sdk</h4></td>
-      <td>[object Object]</td>
+      <td>2.120.0</td>
       <td>:green_heart: 2.140.0</td>
     </tr>
   </table>
@@ -904,7 +904,7 @@ console.log(info);
   :octocat: [Repository](undefined)
   
 
-  undefined
+  AWS SDK for JavaScript
 
   <details>
   <summar>more</summary>
@@ -1084,7 +1084,7 @@ see LICENSE.txt and NOTICE.txt for more information.
   <table>
     <tr>
       <td><h4>babel-cli</h4></td>
-      <td>[object Object]</td>
+      <td>6.24.1</td>
       <td>:green_heart: 6.26.0</td>
     </tr>
   </table>
@@ -1093,7 +1093,7 @@ see LICENSE.txt and NOTICE.txt for more information.
   :octocat: [Repository](undefined)
   
 
-  undefined
+  Babel command line.
 
   <details>
   <summar>more</summary>
@@ -1123,7 +1123,7 @@ For more in depth documentation see: http://babeljs.io/docs/usage/cli/
   <table>
     <tr>
       <td><h4>babel-core</h4></td>
-      <td>[object Object]</td>
+      <td>6.24.1</td>
       <td>:green_heart: 6.26.0</td>
     </tr>
   </table>
@@ -1132,7 +1132,7 @@ For more in depth documentation see: http://babeljs.io/docs/usage/cli/
   :octocat: [Repository](undefined)
   
 
-  undefined
+  Babel compiler core.
 
   <details>
   <summar>more</summary>
@@ -1262,7 +1262,7 @@ Following is a table of the options you can use:
   <table>
     <tr>
       <td><h4>babel-loader</h4></td>
-      <td>[object Object]</td>
+      <td>7.1.2</td>
       <td>:green_heart: 7.1.2</td>
     </tr>
   </table>
@@ -1271,7 +1271,7 @@ Following is a table of the options you can use:
   :octocat: [Repository](undefined)
   
 
-  undefined
+  babel module loader for webpack
 
   <details>
   <summar>more</summary>
@@ -1488,7 +1488,7 @@ In the case one of your dependencies is installing `babel` and you cannot uninst
   <table>
     <tr>
       <td><h4>babel-plugin-relay</h4></td>
-      <td>[object Object]</td>
+      <td>1.4.1</td>
       <td>:green_heart: 1.4.1</td>
     </tr>
   </table>
@@ -1497,7 +1497,7 @@ In the case one of your dependencies is installing `babel` and you cannot uninst
   :octocat: [Repository](undefined)
   
 
-  undefined
+  A Babel Plugin for use with Relay applications.
 
   <details>
   <summar>more</summary>
@@ -1506,7 +1506,7 @@ In the case one of your dependencies is installing `babel` and you cannot uninst
   <table>
     <tr>
       <td><h4>babel-plugin-transform-decorators-legacy</h4></td>
-      <td>[object Object]</td>
+      <td>1.3.4</td>
       <td>:green_heart: 1.3.4</td>
     </tr>
   </table>
@@ -1515,7 +1515,7 @@ In the case one of your dependencies is installing `babel` and you cannot uninst
   :octocat: [Repository](undefined)
   
 
-  undefined
+  A plugin for Babel 6 that (mostly) replicates the old decorator behavior from Babel 5.
 
   <details>
   <summar>more</summary>
@@ -1624,7 +1624,7 @@ MIT (c) 2015
   <table>
     <tr>
       <td><h4>babel-plugin-transform-flow-strip-types</h4></td>
-      <td>[object Object]</td>
+      <td>6.22.0</td>
       <td>:green_heart: 6.22.0</td>
     </tr>
   </table>
@@ -1633,7 +1633,7 @@ MIT (c) 2015
   :octocat: [Repository](undefined)
   
 
-  undefined
+  Strip flow type annotations from your output code.
 
   <details>
   <summar>more</summary>
@@ -1677,7 +1677,7 @@ require("babel-core").transform("code", {
   <table>
     <tr>
       <td><h4>babel-plugin-transform-react-inline-elements</h4></td>
-      <td>[object Object]</td>
+      <td>6.22.0</td>
       <td>:green_heart: 6.22.0</td>
     </tr>
   </table>
@@ -1686,7 +1686,7 @@ require("babel-core").transform("code", {
   :octocat: [Repository](undefined)
   
 
-  undefined
+  Turn JSX elements into exploded React objects
 
   <details>
   <summar>more</summary>
@@ -1730,7 +1730,7 @@ require("babel-core").transform("code", {
   <table>
     <tr>
       <td><h4>babel-plugin-transform-runtime</h4></td>
-      <td>[object Object]</td>
+      <td>6.23.0</td>
       <td>:green_heart: 6.23.0</td>
     </tr>
   </table>
@@ -1739,7 +1739,7 @@ require("babel-core").transform("code", {
   :octocat: [Repository](undefined)
   
 
-  undefined
+  Externalise references to helpers and builtins, automatically polyfilling your code without polluting globals
 
   <details>
   <summar>more</summary>
@@ -1783,7 +1783,7 @@ require("babel-core").transform("code", {
   <table>
     <tr>
       <td><h4>babel-preset-es2015</h4></td>
-      <td>[object Object]</td>
+      <td>6.24.1</td>
       <td>:green_heart: 6.24.1</td>
     </tr>
   </table>
@@ -1792,7 +1792,7 @@ require("babel-core").transform("code", {
   :octocat: [Repository](undefined)
   
 
-  undefined
+  Babel preset for all es2015 plugins.
 
   <details>
   <summar>more</summary>
@@ -1858,7 +1858,7 @@ Enable "spec" transformations for any plugins in this preset that allow them.
   <table>
     <tr>
       <td><h4>babel-preset-react</h4></td>
-      <td>[object Object]</td>
+      <td>6.24.1</td>
       <td>:green_heart: 6.24.1</td>
     </tr>
   </table>
@@ -1867,7 +1867,7 @@ Enable "spec" transformations for any plugins in this preset that allow them.
   :octocat: [Repository](undefined)
   
 
-  undefined
+  Babel preset for all React plugins.
 
   <details>
   <summar>more</summary>
@@ -1942,7 +1942,7 @@ require("babel-core").transform("code", {
   <table>
     <tr>
       <td><h4>babel-preset-react-optimize</h4></td>
-      <td>[object Object]</td>
+      <td>1.0.1</td>
       <td>:green_heart: 1.0.1</td>
     </tr>
   </table>
@@ -1960,7 +1960,7 @@ require("babel-core").transform("code", {
   <table>
     <tr>
       <td><h4>babel-preset-stage-0</h4></td>
-      <td>[object Object]</td>
+      <td>6.24.1</td>
       <td>:green_heart: 6.24.1</td>
     </tr>
   </table>
@@ -1969,7 +1969,7 @@ require("babel-core").transform("code", {
   :octocat: [Repository](undefined)
   
 
-  undefined
+  Babel preset for stage 0 plugins
 
   <details>
   <summar>more</summary>
@@ -2013,7 +2013,7 @@ require("babel-core").transform("code", {
   <table>
     <tr>
       <td><h4>chai</h4></td>
-      <td>[object Object]</td>
+      <td>3.5.0</td>
       <td>:green_heart: 4.1.2</td>
     </tr>
   </table>
@@ -2022,7 +2022,7 @@ require("babel-core").transform("code", {
   :octocat: [Repository](undefined)
   
 
-  undefined
+  BDD/TDD assertion library for node.js and the browser. Test framework agnostic.
 
   <details>
   <summar>more</summary>
@@ -2243,7 +2243,7 @@ concerns. We will do our best to respond in a timely manner.
   <table>
     <tr>
       <td><h4>cross-env</h4></td>
-      <td>[object Object]</td>
+      <td>5.0.5</td>
       <td>:green_heart: 5.1.0</td>
     </tr>
   </table>
@@ -2252,7 +2252,7 @@ concerns. We will do our best to respond in a timely manner.
   :octocat: [Repository](undefined)
   
 
-  undefined
+  Run scripts that set and use environment variables across platforms
 
   <details>
   <summar>more</summary>
@@ -2471,7 +2471,7 @@ MIT
   <table>
     <tr>
       <td><h4>css-loader</h4></td>
-      <td>[object Object]</td>
+      <td>0.28.5</td>
       <td>:green_heart: 0.28.7</td>
     </tr>
   </table>
@@ -2480,7 +2480,7 @@ MIT
   :octocat: [Repository](undefined)
   
 
-  undefined
+  css loader module for webpack
 
   <details>
   <summar>more</summary>
@@ -3053,7 +3053,7 @@ module.exports = {
   <table>
     <tr>
       <td><h4>enzyme</h4></td>
-      <td>[object Object]</td>
+      <td>2.9.1</td>
       <td>:green_heart: 3.1.0</td>
     </tr>
   </table>
@@ -3062,7 +3062,7 @@ module.exports = {
   :octocat: [Repository](undefined)
   
 
-  undefined
+  JavaScript Testing utilities for React
 
   <details>
   <summar>more</summary>
@@ -3306,7 +3306,7 @@ Organizations and projects using `enzyme` can list themselves [here](INTHEWILD.m
   <table>
     <tr>
       <td><h4>enzyme-to-json</h4></td>
-      <td>[object Object]</td>
+      <td>1.5.1</td>
       <td>:green_heart: 3.1.4</td>
     </tr>
   </table>
@@ -3315,7 +3315,7 @@ Organizations and projects using `enzyme` can list themselves [here](INTHEWILD.m
   :octocat: [Repository](undefined)
   
 
-  undefined
+  convert enzyme wrapper to a format compatible with Jest snapshot
 
   <details>
   <summar>more</summary>
@@ -3414,7 +3414,7 @@ And here are all the possible options:
   <table>
     <tr>
       <td><h4>exports-loader</h4></td>
-      <td>[object Object]</td>
+      <td>0.6.4</td>
       <td>:green_heart: 0.6.4</td>
     </tr>
   </table>
@@ -3423,7 +3423,7 @@ And here are all the possible options:
   :octocat: [Repository](undefined)
   
 
-  undefined
+  exports loader module for webpack
 
   <details>
   <summar>more</summary>
@@ -3509,7 +3509,7 @@ require("exports-loader?file!./file.js");
   <table>
     <tr>
       <td><h4>extract-text-webpack-plugin</h4></td>
-      <td>[object Object]</td>
+      <td>3.0.0</td>
       <td>:green_heart: 3.0.2</td>
     </tr>
   </table>
@@ -3518,7 +3518,7 @@ require("exports-loader?file!./file.js");
   :octocat: [Repository](undefined)
   
 
-  undefined
+  Extract text from bundle into a file.
 
   <details>
   <summar>more</summary>
@@ -3761,7 +3761,7 @@ plugins: [
   <table>
     <tr>
       <td><h4>fetch</h4></td>
-      <td>[object Object]</td>
+      <td>1.1.0</td>
       <td>:green_heart: 1.1.0</td>
     </tr>
   </table>
@@ -3770,7 +3770,7 @@ plugins: [
   :octocat: [Repository](undefined)
   
 
-  undefined
+  Fetch URL contents
 
   <details>
   <summar>more</summary>
@@ -3962,7 +3962,7 @@ BSD
   <table>
     <tr>
       <td><h4>file-loader</h4></td>
-      <td>[object Object]</td>
+      <td>0.11.2</td>
       <td>:green_heart: 1.1.5</td>
     </tr>
   </table>
@@ -3971,7 +3971,7 @@ BSD
   :octocat: [Repository](undefined)
   
 
-  undefined
+  file loader module for webpack
 
   <details>
   <summar>more</summary>
@@ -4287,7 +4287,7 @@ path/to/file.png?e43b20c069c4a01867c31e98cbce33c9
   <table>
     <tr>
       <td><h4>iflow-immutable</h4></td>
-      <td>[object Object]</td>
+      <td>1.0.32</td>
       <td>:green_heart: 1.0.32</td>
     </tr>
   </table>
@@ -4296,7 +4296,7 @@ path/to/file.png?e43b20c069c4a01867c31e98cbce33c9
   :octocat: [Repository](undefined)
   
 
-  undefined
+  Flow Interface for immutable
 
   <details>
   <summar>more</summary>
@@ -4305,7 +4305,7 @@ path/to/file.png?e43b20c069c4a01867c31e98cbce33c9
   <table>
     <tr>
       <td><h4>iflow-lodash</h4></td>
-      <td>[object Object]</td>
+      <td>1.1.27</td>
       <td>:green_heart: 1.1.27</td>
     </tr>
   </table>
@@ -4314,7 +4314,7 @@ path/to/file.png?e43b20c069c4a01867c31e98cbce33c9
   :octocat: [Repository](undefined)
   
 
-  undefined
+  Flow Interface for lodash
 
   <details>
   <summar>more</summary>
@@ -4323,7 +4323,7 @@ path/to/file.png?e43b20c069c4a01867c31e98cbce33c9
   <table>
     <tr>
       <td><h4>iflow-react-router</h4></td>
-      <td>[object Object]</td>
+      <td>1.2.1</td>
       <td>:green_heart: 1.2.1</td>
     </tr>
   </table>
@@ -4332,7 +4332,7 @@ path/to/file.png?e43b20c069c4a01867c31e98cbce33c9
   :octocat: [Repository](undefined)
   
 
-  undefined
+  Flow Interface for react-router
 
   <details>
   <summar>more</summary>
@@ -4341,7 +4341,7 @@ path/to/file.png?e43b20c069c4a01867c31e98cbce33c9
   <table>
     <tr>
       <td><h4>imports-loader</h4></td>
-      <td>[object Object]</td>
+      <td>0.6.5</td>
       <td>:green_heart: 0.7.1</td>
     </tr>
   </table>
@@ -4350,7 +4350,7 @@ path/to/file.png?e43b20c069c4a01867c31e98cbce33c9
   :octocat: [Repository](undefined)
   
 
-  undefined
+  imports loader module for webpack
 
   <details>
   <summar>more</summary>
@@ -4505,7 +4505,7 @@ For further hints on compatibility issues, check out [Shimming Modules](http://w
   <table>
     <tr>
       <td><h4>jsdom</h4></td>
-      <td>[object Object]</td>
+      <td>9.12.0</td>
       <td>:green_heart: 11.3.0</td>
     </tr>
   </table>
@@ -4514,7 +4514,7 @@ For further hints on compatibility issues, check out [Shimming Modules](http://w
   :octocat: [Repository](undefined)
   
 
-  undefined
+  A JavaScript implementation of many web standards
 
   <details>
   <summar>more</summary>
@@ -4971,7 +4971,7 @@ If you need help with jsdom, please feel free to use any of the following venues
   <table>
     <tr>
       <td><h4>json-loader</h4></td>
-      <td>[object Object]</td>
+      <td>0.5.4</td>
       <td>:green_heart: 0.5.7</td>
     </tr>
   </table>
@@ -4980,7 +4980,7 @@ If you need help with jsdom, please feel free to use any of the following venues
   :octocat: [Repository](undefined)
   
 
-  undefined
+  json loader module for webpack
 
   <details>
   <summar>more</summary>
@@ -5074,7 +5074,7 @@ module.exports = {
   <table>
     <tr>
       <td><h4>jsx-chai</h4></td>
-      <td>[object Object]</td>
+      <td>4.0.0</td>
       <td>:green_heart: 4.0.0</td>
     </tr>
   </table>
@@ -5083,7 +5083,7 @@ module.exports = {
   :octocat: [Repository](undefined)
   
 
-  undefined
+  JSX assertions for Chai using Algolia's react-element-to-jsx-string
 
   <details>
   <summar>more</summary>
@@ -5205,7 +5205,7 @@ production build or the build without addons.
   <table>
     <tr>
       <td><h4>node-object-hash</h4></td>
-      <td>[object Object]</td>
+      <td>1.2.0</td>
       <td>:green_heart: 1.3.0</td>
     </tr>
   </table>
@@ -5214,7 +5214,7 @@ production build or the build without addons.
   :octocat: [Repository](undefined)
   
 
-  undefined
+  Node.js object hash library with properties/arrays sorting to provide constant hashes
 
   <details>
   <summar>more</summary>
@@ -5644,7 +5644,7 @@ ISC
   <table>
     <tr>
       <td><h4>node-sass</h4></td>
-      <td>[object Object]</td>
+      <td>4.5.3</td>
       <td>:green_heart: 4.5.3</td>
     </tr>
   </table>
@@ -5653,7 +5653,7 @@ ISC
   :octocat: [Repository](undefined)
   
 
-  undefined
+  Wrapper around libsass
 
   <details>
   <summar>more</summary>
@@ -6238,7 +6238,7 @@ Copyright (c) 2015 Andrew Nesbitt. See [LICENSE](https://github.com/sass/node-sa
   <table>
     <tr>
       <td><h4>nodemon</h4></td>
-      <td>[object Object]</td>
+      <td>1.11.0</td>
       <td>:green_heart: 1.12.1</td>
     </tr>
   </table>
@@ -6247,7 +6247,7 @@ Copyright (c) 2015 Andrew Nesbitt. See [LICENSE](https://github.com/sass/node-sa
   :octocat: [Repository](undefined)
   
 
-  undefined
+  Simple monitor script for use during development of a node.js app.
 
   <details>
   <summar>more</summary>
@@ -6549,7 +6549,7 @@ MIT [http://rem.mit-license.org](http://rem.mit-license.org)
   <table>
     <tr>
       <td><h4>optimize-js-plugin</h4></td>
-      <td>[object Object]</td>
+      <td>0.0.4</td>
       <td>:green_heart: 0.0.4</td>
     </tr>
   </table>
@@ -6558,7 +6558,7 @@ MIT [http://rem.mit-license.org](http://rem.mit-license.org)
   :octocat: [Repository](undefined)
   
 
-  undefined
+  webpack plugin to optimize initial JavaScript execution/parsing by wrapping eager functions
 
   <details>
   <summar>more</summary>
@@ -6607,7 +6607,7 @@ All options as mentioned [here](https://github.com/nolanlawson/optimize-js#javas
   <table>
     <tr>
       <td><h4>postcss-import</h4></td>
-      <td>[object Object]</td>
+      <td>10.0.0</td>
       <td>:green_heart: 11.0.0</td>
     </tr>
   </table>
@@ -6616,7 +6616,7 @@ All options as mentioned [here](https://github.com/nolanlawson/optimize-js#javas
   :octocat: [Repository](undefined)
   
 
-  undefined
+  PostCSS plugin to import CSS files
 
   <details>
   <summar>more</summary>
@@ -6845,7 +6845,7 @@ This is mainly for use by postcss runners that implement file watching.
   <table>
     <tr>
       <td><h4>pre-push</h4></td>
-      <td>[object Object]</td>
+      <td>0.1.1</td>
       <td>:green_heart: 0.1.1</td>
     </tr>
   </table>
@@ -6854,7 +6854,7 @@ This is mainly for use by postcss runners that implement file watching.
   :octocat: [Repository](undefined)
   
 
-  undefined
+  Automatically install pre-push hooks for your npm modules.
 
   <details>
   <summar>more</summary>
@@ -6990,7 +6990,7 @@ MIT
   <table>
     <tr>
       <td><h4>react-hot-loader</h4></td>
-      <td>[object Object]</td>
+      <td>3.0.0-beta.6</td>
       <td>:green_heart: 3.1.1</td>
     </tr>
   </table>
@@ -6999,7 +6999,7 @@ MIT
   :octocat: [Repository](undefined)
   
 
-  undefined
+  Tweak React components in real time.
 
   <details>
   <summar>more</summary>
@@ -7335,7 +7335,7 @@ MIT
   <table>
     <tr>
       <td><h4>react-immutable-proptypes</h4></td>
-      <td>[object Object]</td>
+      <td>2.1.0</td>
       <td>:green_heart: 2.1.0</td>
     </tr>
   </table>
@@ -7344,7 +7344,7 @@ MIT
   :octocat: [Repository](undefined)
   
 
-  undefined
+  PropType validators that work with Immutable.js.
 
   <details>
   <summar>more</summary>
@@ -7490,7 +7490,7 @@ Please send a message or, better yet, create an issue/pull request if you know a
   <table>
     <tr>
       <td><h4>relay-compiler</h4></td>
-      <td>[object Object]</td>
+      <td>1.4.1</td>
       <td>:green_heart: 1.4.1</td>
     </tr>
   </table>
@@ -7499,7 +7499,7 @@ Please send a message or, better yet, create an issue/pull request if you know a
   :octocat: [Repository](undefined)
   
 
-  undefined
+  A compiler tool for building GraphQL-driven applications.
 
   <details>
   <summar>more</summary>
@@ -7508,7 +7508,7 @@ Please send a message or, better yet, create an issue/pull request if you know a
   <table>
     <tr>
       <td><h4>sass-loader</h4></td>
-      <td>[object Object]</td>
+      <td>6.0.6</td>
       <td>:green_heart: 6.0.6</td>
     </tr>
   </table>
@@ -7517,7 +7517,7 @@ Please send a message or, better yet, create an issue/pull request if you know a
   :octocat: [Repository](undefined)
   
 
-  undefined
+  Sass loader for webpack
 
   <details>
   <summar>more</summary>
@@ -7763,7 +7763,7 @@ If you want to prepend Sass code before the actual entry file, you can set the `
   <table>
     <tr>
       <td><h4>selenium-download</h4></td>
-      <td>[object Object]</td>
+      <td>2.0.10</td>
       <td>:green_heart: 2.0.10</td>
     </tr>
   </table>
@@ -7772,7 +7772,7 @@ If you want to prepend Sass code before the actual entry file, you can set the `
   :octocat: [Repository](undefined)
   
 
-  undefined
+  allow downloading of latest selenium standalone server and chromedriver
 
   <details>
   <summar>more</summary>
@@ -7829,7 +7829,7 @@ Clears temp directory before checking.
   <table>
     <tr>
       <td><h4>sinon</h4></td>
-      <td>[object Object]</td>
+      <td>1.17.7</td>
       <td>:green_heart: 4.0.2</td>
     </tr>
   </table>
@@ -7838,7 +7838,7 @@ Clears temp directory before checking.
   :octocat: [Repository](undefined)
   
 
-  undefined
+  JavaScript test spies, stubs and mocks.
 
   <details>
   <summar>more</summary>
@@ -7977,7 +7977,7 @@ Sinon.js was released under [BSD-3](LICENSE)
   <table>
     <tr>
       <td><h4>style-loader</h4></td>
-      <td>[object Object]</td>
+      <td>0.18.2</td>
       <td>:green_heart: 0.19.0</td>
     </tr>
   </table>
@@ -7986,7 +7986,7 @@ Sinon.js was released under [BSD-3](LICENSE)
   :octocat: [Repository](undefined)
   
 
-  undefined
+  style loader module for webpack
 
   <details>
   <summar>more</summary>
@@ -8443,7 +8443,7 @@ If convertToAbsoluteUrls and sourceMaps are both enabled, relative urls will be 
   <table>
     <tr>
       <td><h4>webpack-bundle-analyzer</h4></td>
-      <td>[object Object]</td>
+      <td>2.8.3</td>
       <td>:green_heart: 2.9.0</td>
     </tr>
   </table>
@@ -8452,7 +8452,7 @@ If convertToAbsoluteUrls and sourceMaps are both enabled, relative urls will be 
   :octocat: [Repository](undefined)
   
 
-  undefined
+  Webpack plugin and CLI utility that represents bundle content as convenient interactive zoomable treemap
 
   <details>
   <summar>more</summary>
@@ -8584,7 +8584,7 @@ Check out [CONTRIBUTING.md](./CONTRIBUTING.md) for instructions on contributing 
   <table>
     <tr>
       <td><h4>why-did-you-update</h4></td>
-      <td>[object Object]</td>
+      <td>0.0.8</td>
       <td>:green_heart: 0.0.8</td>
     </tr>
   </table>
@@ -8593,7 +8593,7 @@ Check out [CONTRIBUTING.md](./CONTRIBUTING.md) for instructions on contributing 
   :octocat: [Repository](undefined)
   
 
-  undefined
+  Patch React to discover unnecessary re-renders
 
   <details>
   <summar>more</summary>
@@ -8637,7 +8637,7 @@ That is really awesome but also tedious AF, so why not just monkey patch React.
   <table>
     <tr>
       <td><h4>yarn-run-all</h4></td>
-      <td>[object Object]</td>
+      <td>3.1.1</td>
       <td>:green_heart: 3.1.1</td>
     </tr>
   </table>
@@ -8646,7 +8646,7 @@ That is really awesome but also tedious AF, so why not just monkey patch React.
   :octocat: [Repository](undefined)
   
 
-  undefined
+  A CLI tool to run multiple npm-scripts in parallel or sequential.
 
   <details>
   <summar>more</summary>
@@ -8744,7 +8744,7 @@ Those work on Windows, Mac, or Linux (by the way, I'm developping `npm-run-all` 
 <table>
     <tr>
       <td><h4>asap</h4></td>
-      <td>[object Object]</td>
+      <td>2.0.6</td>
       <td>:green_heart: 2.0.6</td>
     </tr>
   </table>
@@ -8753,7 +8753,7 @@ Those work on Windows, Mac, or Linux (by the way, I'm developping `npm-run-all` 
   :octocat: [Repository](undefined)
   
 
-  undefined
+  High-priority task queue for Node.js and browsers
 
   <details>
   <summar>more</summary>
@@ -8999,7 +8999,7 @@ MIT License (enclosed)
   <table>
     <tr>
       <td><h4>autosuggest-highlight</h4></td>
-      <td>[object Object]</td>
+      <td>2.1.1</td>
       <td>:green_heart: 3.1.1</td>
     </tr>
   </table>
@@ -9008,7 +9008,7 @@ MIT License (enclosed)
   :octocat: [Repository](undefined)
   
 
-  undefined
+  Utilities for highlighting text in autosuggest and autocomplete components
 
   <details>
   <summar>more</summary>
@@ -9162,7 +9162,7 @@ var parts = parse('Pretty cool text', [[7, 9], [12, 13]]);
   <table>
     <tr>
       <td><h4>babel-jest</h4></td>
-      <td>[object Object]</td>
+      <td>20.0.3</td>
       <td>:green_heart: 21.2.0</td>
     </tr>
   </table>
@@ -9171,7 +9171,7 @@ var parts = parse('Pretty cool text', [[7, 9], [12, 13]]);
   :octocat: [Repository](undefined)
   
 
-  undefined
+  Jest plugin to use babel for transformation.
 
   <details>
   <summar>more</summary>
@@ -9205,7 +9205,7 @@ To explicitly define `babel-jest` as a transformer for your JavaScript code, map
   <table>
     <tr>
       <td><h4>babel-plugin-module-resolver</h4></td>
-      <td>[object Object]</td>
+      <td>2.7.1</td>
       <td>:green_heart: 2.7.1</td>
     </tr>
   </table>
@@ -9214,7 +9214,7 @@ To explicitly define `babel-jest` as a transformer for your JavaScript code, map
   :octocat: [Repository](undefined)
   
 
-  undefined
+  Module resolver plugin for Babel
 
   <details>
   <summar>more</summary>
@@ -9342,7 +9342,7 @@ MIT, see [LICENSE.md](/LICENSE.md) for details.
   <table>
     <tr>
       <td><h4>babel-plugin-webpack-alias</h4></td>
-      <td>[object Object]</td>
+      <td>2.1.2</td>
       <td>:green_heart: 2.1.2</td>
     </tr>
   </table>
@@ -9351,7 +9351,7 @@ MIT, see [LICENSE.md](/LICENSE.md) for details.
   :octocat: [Repository](undefined)
   
 
-  undefined
+  babel 6 plugin which allows to use webpack aliases
 
   <details>
   <summar>more</summary>
@@ -9491,7 +9491,7 @@ In this case, the plugin will only be run when `NODE_ENV` is set to `test`.
   <table>
     <tr>
       <td><h4>babel-polyfill</h4></td>
-      <td>[object Object]</td>
+      <td>6.23.0</td>
       <td>:green_heart: 6.26.0</td>
     </tr>
   </table>
@@ -9500,7 +9500,7 @@ In this case, the plugin will only be run when `NODE_ENV` is set to `test`.
   :octocat: [Repository](undefined)
   
 
-  undefined
+  Provides polyfills necessary for a full ES2015+ environment
 
   <details>
   <summar>more</summary>
@@ -9511,7 +9511,7 @@ In this case, the plugin will only be run when `NODE_ENV` is set to `test`.
   <table>
     <tr>
       <td><h4>babel-runtime</h4></td>
-      <td>[object Object]</td>
+      <td>6.26.0</td>
       <td>:green_heart: 6.26.0</td>
     </tr>
   </table>
@@ -9520,7 +9520,7 @@ In this case, the plugin will only be run when `NODE_ENV` is set to `test`.
   :octocat: [Repository](undefined)
   
 
-  undefined
+  babel selfContained runtime
 
   <details>
   <summar>more</summary>
@@ -9531,7 +9531,7 @@ In this case, the plugin will only be run when `NODE_ENV` is set to `test`.
   <table>
     <tr>
       <td><h4>bluebird</h4></td>
-      <td>[object Object]</td>
+      <td>3.5.0</td>
       <td>:green_heart: 3.5.1</td>
     </tr>
   </table>
@@ -9540,7 +9540,7 @@ In this case, the plugin will only be run when `NODE_ENV` is set to `test`.
   :octocat: [Repository](undefined)
   
 
-  undefined
+  Full featured Promises/A+ implementation with exceptionally good performance
 
   <details>
   <summar>more</summary>
@@ -9601,7 +9601,7 @@ THE SOFTWARE.
   <table>
     <tr>
       <td><h4>body-parser</h4></td>
-      <td>[object Object]</td>
+      <td>1.17.2</td>
       <td>:green_heart: 1.18.2</td>
     </tr>
   </table>
@@ -9610,7 +9610,7 @@ THE SOFTWARE.
   :octocat: [Repository](undefined)
   
 
-  undefined
+  Node.js body parsing middleware
 
   <details>
   <summar>more</summary>
@@ -10057,7 +10057,7 @@ app.use(bodyParser.text({ type: 'text/html' }))
   <table>
     <tr>
       <td><h4>chroma-js</h4></td>
-      <td>[object Object]</td>
+      <td>1.3.4</td>
       <td>:green_heart: 1.3.4</td>
     </tr>
   </table>
@@ -10066,7 +10066,7 @@ app.use(bodyParser.text({ type: 'text/html' }))
   :octocat: [Repository](undefined)
   
 
-  undefined
+  JavaScript library for color conversions
 
   <details>
   <summar>more</summary>
@@ -10162,7 +10162,7 @@ Versions prior to 0.4 were released under [GPL](http://www.gnu.org/licenses/gpl-
   <table>
     <tr>
       <td><h4>classnames</h4></td>
-      <td>[object Object]</td>
+      <td>2.2.5</td>
       <td>:green_heart: 2.2.5</td>
     </tr>
   </table>
@@ -10171,7 +10171,7 @@ Versions prior to 0.4 were released under [GPL](http://www.gnu.org/licenses/gpl-
   :octocat: [Repository](undefined)
   
 
-  undefined
+  A simple utility for conditionally joining classNames together
 
   <details>
   <summar>more</summary>
@@ -10368,7 +10368,7 @@ export default class SubmitButton extends Component {
   <table>
     <tr>
       <td><h4>cluster</h4></td>
-      <td>[object Object]</td>
+      <td>0.7.7</td>
       <td>:green_heart: 0.7.7</td>
     </tr>
   </table>
@@ -10377,7 +10377,7 @@ export default class SubmitButton extends Component {
   :octocat: [Repository](undefined)
   
 
-  undefined
+  extensible multi-core server manager
 
   <details>
   <summar>more</summary>
@@ -10386,7 +10386,7 @@ export default class SubmitButton extends Component {
   <table>
     <tr>
       <td><h4>color-it</h4></td>
-      <td>[object Object]</td>
+      <td>1.2.9</td>
       <td>:green_heart: 1.2.10</td>
     </tr>
   </table>
@@ -10395,7 +10395,7 @@ export default class SubmitButton extends Component {
   :octocat: [Repository](undefined)
   
 
-  undefined
+  Flat colors for your Node.js strings.
 
   <details>
   <summar>more</summary>
@@ -10582,7 +10582,7 @@ If you are using this library in one of your projects, add it in this list. :spa
   <table>
     <tr>
       <td><h4>connect-flash</h4></td>
-      <td>[object Object]</td>
+      <td>0.1.1</td>
       <td>:green_heart: 0.1.1</td>
     </tr>
   </table>
@@ -10591,7 +10591,7 @@ If you are using this library in one of your projects, add it in this list. :spa
   :octocat: [Repository](undefined)
   
 
-  undefined
+  Flash message middleware for Connect.
 
   <details>
   <summar>more</summary>
@@ -10673,7 +10673,7 @@ Copyright (c) 2012-2013 Jared Hanson <[http://jaredhanson.net/](http://jaredhans
   <table>
     <tr>
       <td><h4>connect-redis</h4></td>
-      <td>[object Object]</td>
+      <td>3.3.0</td>
       <td>:green_heart: 3.3.2</td>
     </tr>
   </table>
@@ -10682,7 +10682,7 @@ Copyright (c) 2012-2013 Jared Hanson <[http://jaredhanson.net/](http://jaredhans
   :octocat: [Repository](undefined)
   
 
-  undefined
+  Redis session store for Connect
 
   <details>
   <summar>more</summary>
@@ -10773,7 +10773,7 @@ MIT
   <table>
     <tr>
       <td><h4>cookie-parser</h4></td>
-      <td>[object Object]</td>
+      <td>1.4.3</td>
       <td>:green_heart: 1.4.3</td>
     </tr>
   </table>
@@ -10782,7 +10782,7 @@ MIT
   :octocat: [Repository](undefined)
   
 
-  undefined
+  cookie parsing with signatures
 
   <details>
   <summar>more</summary>
@@ -10876,7 +10876,7 @@ app.listen(8080)
   <table>
     <tr>
       <td><h4>currency-symbol-map</h4></td>
-      <td>[object Object]</td>
+      <td>3.1.0</td>
       <td>:green_heart: 4.0.3</td>
     </tr>
   </table>
@@ -10885,7 +10885,7 @@ app.listen(8080)
   :octocat: [Repository](undefined)
   
 
-  undefined
+  A function to lookup the currency symbol for a given currency code
 
   <details>
   <summar>more</summary>
@@ -10951,7 +10951,7 @@ and updated by [contributors](https://github.com/bengourley/currency-symbol-map/
   <table>
     <tr>
       <td><h4>d3</h4></td>
-      <td>[object Object]</td>
+      <td>3.5.17</td>
       <td>:green_heart: 4.11.0</td>
     </tr>
   </table>
@@ -10960,7 +10960,7 @@ and updated by [contributors](https://github.com/bengourley/currency-symbol-map/
   :octocat: [Repository](undefined)
   
 
-  undefined
+  Data-Driven Documents
 
   <details>
   <summar>more</summary>
@@ -11026,7 +11026,7 @@ var d3 = Object.assign({}, require("d3-format"), require("d3-geo"), require("d3-
   <table>
     <tr>
       <td><h4>d3-color</h4></td>
-      <td>[object Object]</td>
+      <td>1.0.3</td>
       <td>:green_heart: 1.0.3</td>
     </tr>
   </table>
@@ -11035,7 +11035,7 @@ var d3 = Object.assign({}, require("d3-format"), require("d3-geo"), require("d3-
   :octocat: [Repository](undefined)
   
 
-  undefined
+  Color spaces! RGB, HSL, Cubehelix, Lab and HCL (Lch).
 
   <details>
   <summar>more</summary>
@@ -11180,7 +11180,7 @@ If *h*, *s* and *l* are specified, these represent the channel values of the ret
   <table>
     <tr>
       <td><h4>d3-interpolate</h4></td>
-      <td>[object Object]</td>
+      <td>1.1.5</td>
       <td>:green_heart: 1.1.5</td>
     </tr>
   </table>
@@ -11189,7 +11189,7 @@ If *h*, *s* and *l* are specified, these represent the channel values of the ret
   :octocat: [Repository](undefined)
   
 
-  undefined
+  Interpolate numbers, colors, strings, arrays, objects, whatever!
 
   <details>
   <summar>more</summary>
@@ -11423,7 +11423,7 @@ Returns a uniform nonrational B-spline interpolator through the specified array 
   <table>
     <tr>
       <td><h4>debug</h4></td>
-      <td>[object Object]</td>
+      <td>2.6.8</td>
       <td>:green_heart: 3.1.0</td>
     </tr>
   </table>
@@ -11432,7 +11432,7 @@ Returns a uniform nonrational B-spline interpolator through the specified array 
   :octocat: [Repository](undefined)
   
 
-  undefined
+  small debugging utility
 
   <details>
   <summar>more</summary>
@@ -11809,7 +11809,7 @@ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
   <table>
     <tr>
       <td><h4>diff</h4></td>
-      <td>[object Object]</td>
+      <td>3.3.1</td>
       <td>:green_heart: 3.4.0</td>
     </tr>
   </table>
@@ -11818,7 +11818,7 @@ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
   :octocat: [Repository](undefined)
   
 
-  undefined
+  A javascript text diff implementation.
 
   <details>
   <summar>more</summary>
@@ -12038,7 +12038,7 @@ See [LICENSE](https://github.com/kpdecker/jsdiff/blob/master/LICENSE).
   <table>
     <tr>
       <td><h4>es6-object-assign</h4></td>
-      <td>[object Object]</td>
+      <td>1.1.0</td>
       <td>:green_heart: 1.1.0</td>
     </tr>
   </table>
@@ -12047,7 +12047,7 @@ See [LICENSE](https://github.com/kpdecker/jsdiff/blob/master/LICENSE).
   :octocat: [Repository](undefined)
   
 
-  undefined
+  ECMAScript 2015 (ES6) Object.assign polyfill and ponyfill
 
   <details>
   <summar>more</summary>
@@ -12152,7 +12152,7 @@ THE SOFTWARE.
   <table>
     <tr>
       <td><h4>express</h4></td>
-      <td>[object Object]</td>
+      <td>4.15.3</td>
       <td>:green_heart: 4.16.2</td>
     </tr>
   </table>
@@ -12161,7 +12161,7 @@ THE SOFTWARE.
   :octocat: [Repository](undefined)
   
 
-  undefined
+  Fast, unopinionated, minimalist web framework
 
   <details>
   <summar>more</summary>
@@ -12323,7 +12323,7 @@ The current lead maintainer is [Douglas Christopher Wilson](https://github.com/d
   <table>
     <tr>
       <td><h4>express-session</h4></td>
-      <td>[object Object]</td>
+      <td>1.15.3</td>
       <td>:green_heart: 1.15.6</td>
     </tr>
   </table>
@@ -12332,7 +12332,7 @@ The current lead maintainer is [Douglas Christopher Wilson](https://github.com/d
   :octocat: [Repository](undefined)
   
 
-  undefined
+  Simple session middleware for Express
 
   <details>
   <summar>more</summary>
@@ -13097,7 +13097,7 @@ app.get('/bar', function (req, res, next) {
   <table>
     <tr>
       <td><h4>file-saver</h4></td>
-      <td>[object Object]</td>
+      <td>1.3.3</td>
       <td>:green_heart: 1.3.3</td>
     </tr>
   </table>
@@ -13106,7 +13106,7 @@ app.get('/bar', function (req, res, next) {
   :octocat: [Repository](undefined)
   
 
-  undefined
+  An HTML5 saveAs() FileSaver implementation
 
   <details>
   <summar>more</summary>
@@ -13250,7 +13250,7 @@ bower install file-saver
   <table>
     <tr>
       <td><h4>fixed-data-table-2</h4></td>
-      <td>[object Object]</td>
+      <td>0.7.17</td>
       <td>:green_heart: 0.8.3</td>
     </tr>
   </table>
@@ -13259,7 +13259,7 @@ bower install file-saver
   :octocat: [Repository](undefined)
   
 
-  undefined
+  A React table component designed to allow presenting thousands of rows of data.
 
   <details>
   <summar>more</summary>
@@ -13476,7 +13476,7 @@ License
   <table>
     <tr>
       <td><h4>gelfling</h4></td>
-      <td>[object Object]</td>
+      <td>0.3.1</td>
       <td>:green_heart: 0.3.1</td>
     </tr>
   </table>
@@ -13485,7 +13485,7 @@ License
   :octocat: [Repository](undefined)
   
 
-  undefined
+  Create and send GELF (Graylog2) messages, including chunking
 
   <details>
   <summar>more</summary>
@@ -13519,7 +13519,7 @@ complexClient.send({ txt: 'Hi', myTotal: 1337, myCount: 23 })
   <table>
     <tr>
       <td><h4>glamor</h4></td>
-      <td>[object Object]</td>
+      <td>2.20.25</td>
       <td>:green_heart: 2.20.40</td>
     </tr>
   </table>
@@ -13528,7 +13528,7 @@ complexClient.send({ txt: 'Hi', myTotal: 1337, myCount: 23 })
   :octocat: [Repository](undefined)
   
 
-  undefined
+  inline css for component systems
 
   <details>
   <summar>more</summary>
@@ -13669,7 +13669,7 @@ I get it
   <table>
     <tr>
       <td><h4>helmet</h4></td>
-      <td>[object Object]</td>
+      <td>3.6.1</td>
       <td>:green_heart: 3.9.0</td>
     </tr>
   </table>
@@ -13678,7 +13678,7 @@ I get it
   :octocat: [Repository](undefined)
   
 
-  undefined
+  help secure Express/Connect apps with various HTTP headers
 
   <details>
   <summar>more</summary>
@@ -13765,7 +13765,7 @@ You can see more in [the documentation](https://helmetjs.github.io/docs/).
   <table>
     <tr>
       <td><h4>highcharts-no-data-to-display</h4></td>
-      <td>[object Object]</td>
+      <td>0.1.2</td>
       <td>:green_heart: 0.1.2</td>
     </tr>
   </table>
@@ -13774,7 +13774,7 @@ You can see more in [the documentation](https://helmetjs.github.io/docs/).
   :octocat: [Repository](undefined)
   
 
-  undefined
+  highcharts-no-data-to-display module for react Highcharts. This package is generated based on highcharts-release v0.1.2
 
   <details>
   <summar>more</summary>
@@ -13815,7 +13815,7 @@ Issues with the way modules were generated [should be reported to publish-highch
   <table>
     <tr>
       <td><h4>history</h4></td>
-      <td>[object Object]</td>
+      <td>2.1.2</td>
       <td>:green_heart: 4.7.2</td>
     </tr>
   </table>
@@ -13824,7 +13824,7 @@ Issues with the way modules were generated [should be reported to publish-highch
   :octocat: [Repository](undefined)
   
 
-  undefined
+  Manage session history with JavaScript
 
   <details>
   <summar>more</summary>
@@ -14100,7 +14100,7 @@ Also, thanks to [BrowserStack](https://www.browserstack.com/) for providing the 
   <table>
     <tr>
       <td><h4>immutable</h4></td>
-      <td>[object Object]</td>
+      <td>3.7.6</td>
       <td>:green_heart: 3.8.2</td>
     </tr>
   </table>
@@ -14109,7 +14109,7 @@ Also, thanks to [BrowserStack](https://www.browserstack.com/) for providing the 
   :octocat: [Repository](undefined)
   
 
-  undefined
+  Immutable Data Collections
 
   <details>
   <summar>more</summary>
@@ -14592,7 +14592,7 @@ Immutable.js is [MIT-licensed](https://github.com/facebook/immutable-js/blob/mas
   <table>
     <tr>
       <td><h4>isomorphic-fetch</h4></td>
-      <td>[object Object]</td>
+      <td>2.2.1</td>
       <td>:green_heart: 2.2.1</td>
     </tr>
   </table>
@@ -14601,7 +14601,7 @@ Immutable.js is [MIT-licensed](https://github.com/facebook/immutable-js/blob/mas
   :octocat: [Repository](undefined)
   
 
-  undefined
+  Isomorphic WHATWG Fetch API, for Node & Browserify
 
   <details>
   <summar>more</summary>
@@ -14655,7 +14655,7 @@ All open source code released by FT Labs is licenced under the MIT licence.  Bas
   <table>
     <tr>
       <td><h4>jest</h4></td>
-      <td>[object Object]</td>
+      <td>20.0.4</td>
       <td>:green_heart: 21.2.1</td>
     </tr>
   </table>
@@ -14664,7 +14664,7 @@ All open source code released by FT Labs is licenced under the MIT licence.  Bas
   :octocat: [Repository](undefined)
   
 
-  undefined
+  Delightful JavaScript Testing.
 
   <details>
   <summar>more</summary>
@@ -14684,7 +14684,7 @@ Read More: http://facebook.github.io/jest/
   <table>
     <tr>
       <td><h4>jquery-param</h4></td>
-      <td>[object Object]</td>
+      <td>0.2.0</td>
       <td>:green_heart: 0.2.0</td>
     </tr>
   </table>
@@ -14693,7 +14693,7 @@ Read More: http://facebook.github.io/jest/
   :octocat: [Repository](undefined)
   
 
-  undefined
+  equivalent function to jQuery.param
 
   <details>
   <summar>more</summary>
@@ -14749,7 +14749,7 @@ MIT
   <table>
     <tr>
       <td><h4>js-sha512</h4></td>
-      <td>[object Object]</td>
+      <td>0.3.0</td>
       <td>:green_heart: 0.5.0</td>
     </tr>
   </table>
@@ -14758,7 +14758,7 @@ MIT
   :octocat: [Repository](undefined)
   
 
-  undefined
+  This is a simple SHA-512, SHA-384, SHA-512/224, SHA-512/256 hash functions for JavaScript supports UTF-8 encoding.
 
   <details>
   <summar>more</summary>
@@ -14861,7 +14861,7 @@ Author: Chen, Yi-Cyuan (emn178@gmail.com)
   <table>
     <tr>
       <td><h4>lodash</h4></td>
-      <td>[object Object]</td>
+      <td>4.16.6</td>
       <td>:green_heart: 4.17.4</td>
     </tr>
   </table>
@@ -14870,7 +14870,7 @@ Author: Chen, Yi-Cyuan (emn178@gmail.com)
   :octocat: [Repository](undefined)
   
 
-  undefined
+  Lodash modular utilities.
 
   <details>
   <summar>more</summary>
@@ -14918,7 +14918,7 @@ Automated [browser](https://saucelabs.com/u/lodash) & [CI](https://travis-ci.org
   <table>
     <tr>
       <td><h4>md5</h4></td>
-      <td>[object Object]</td>
+      <td>2.2.1</td>
       <td>:green_heart: 2.2.1</td>
     </tr>
   </table>
@@ -14927,7 +14927,7 @@ Automated [browser](https://saucelabs.com/u/lodash) & [CI](https://travis-ci.org
   :octocat: [Repository](undefined)
   
 
-  undefined
+  js function for hashing messages with MD5
 
   <details>
   <summar>more</summary>
@@ -15044,7 +15044,7 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
   <table>
     <tr>
       <td><h4>measured</h4></td>
-      <td>[object Object]</td>
+      <td>1.1.0</td>
       <td>:green_heart: 1.1.0</td>
     </tr>
   </table>
@@ -15053,7 +15053,7 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
   :octocat: [Repository](undefined)
   
 
-  undefined
+  This is an alternative port of Coda Hale's metrics library.
 
   <details>
   <summar>more</summary>
@@ -15319,7 +15319,7 @@ This module is licensed under the MIT license.
   <table>
     <tr>
       <td><h4>method-override</h4></td>
-      <td>[object Object]</td>
+      <td>2.3.9</td>
       <td>:green_heart: 2.3.10</td>
     </tr>
   </table>
@@ -15328,7 +15328,7 @@ This module is licensed under the MIT license.
   :octocat: [Repository](undefined)
   
 
-  undefined
+  Override HTTP verbs
 
   <details>
   <summar>more</summary>
@@ -15520,7 +15520,7 @@ Example call with query override using HTML `<form>`:
   <table>
     <tr>
       <td><h4>moment</h4></td>
-      <td>[object Object]</td>
+      <td>2.18.1</td>
       <td>:green_heart: 2.19.1</td>
     </tr>
   </table>
@@ -15529,7 +15529,7 @@ Example call with query override using HTML `<form>`:
   :octocat: [Repository](undefined)
   
 
-  undefined
+  Parse, validate, manipulate, and display dates
 
   <details>
   <summar>more</summary>
@@ -15599,7 +15599,7 @@ Moment.js is freely distributable under the terms of the [MIT license](https://g
   <table>
     <tr>
       <td><h4>msgpack-lite</h4></td>
-      <td>[object Object]</td>
+      <td>0.1.26</td>
       <td>:green_heart: 0.1.26</td>
     </tr>
   </table>
@@ -15608,7 +15608,7 @@ Moment.js is freely distributable under the terms of the [MIT license](https://g
   :octocat: [Repository](undefined)
   
 
-  undefined
+  Fast Pure JavaScript MessagePack Encoder and Decoder
 
   <details>
   <summar>more</summary>
@@ -16050,7 +16050,7 @@ SOFTWARE.
   <table>
     <tr>
       <td><h4>nconf</h4></td>
-      <td>[object Object]</td>
+      <td>0.8.4</td>
       <td>:green_heart: 0.8.5</td>
     </tr>
   </table>
@@ -16059,7 +16059,7 @@ SOFTWARE.
   :octocat: [Repository](undefined)
   
 
-  undefined
+  Hierarchical node.js configuration with files, environment variables, command-line arguments, and atomic object merging.
 
   <details>
   <summar>more</summary>
@@ -16392,7 +16392,7 @@ Tests are written in vows and give complete coverage of all APIs and storage eng
   <table>
     <tr>
       <td><h4>numeral</h4></td>
-      <td>[object Object]</td>
+      <td>1.5.6</td>
       <td>:green_heart: 2.0.6</td>
     </tr>
   </table>
@@ -16401,7 +16401,7 @@ Tests are written in vows and give complete coverage of all APIs and storage eng
   :octocat: [Repository](undefined)
   
 
-  undefined
+  Format and manipulate numbers.
 
   <details>
   <summar>more</summary>
@@ -16713,7 +16713,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
   <table>
     <tr>
       <td><h4>object-assign</h4></td>
-      <td>[object Object]</td>
+      <td>3.0.0</td>
       <td>:green_heart: 4.1.1</td>
     </tr>
   </table>
@@ -16722,7 +16722,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
   :octocat: [Repository](undefined)
   
 
-  undefined
+  ES2015 `Object.assign()` ponyfill
 
   <details>
   <summar>more</summary>
@@ -16792,7 +16792,7 @@ MIT © [Sindre Sorhus](https://sindresorhus.com)
   <table>
     <tr>
       <td><h4>observ</h4></td>
-      <td>[object Object]</td>
+      <td>0.2.0</td>
       <td>:green_heart: 0.2.0</td>
     </tr>
   </table>
@@ -16801,7 +16801,7 @@ MIT © [Sindre Sorhus](https://sindresorhus.com)
   :octocat: [Repository](undefined)
   
 
-  undefined
+  A observable value representation
 
   <details>
   <summar>more</summary>
@@ -16916,7 +16916,7 @@ observ := (A) => Observable<A>
   <table>
     <tr>
       <td><h4>os</h4></td>
-      <td>[object Object]</td>
+      <td>0.1.1</td>
       <td>:green_heart: 0.1.1</td>
     </tr>
   </table>
@@ -16925,7 +16925,7 @@ observ := (A) => Observable<A>
   :octocat: [Repository](undefined)
   
 
-  undefined
+  NodeJS Core Module Extended
 
   <details>
   <summar>more</summary>
@@ -16958,7 +16958,7 @@ MIT. Copyright (c) [Diego Rodríguez Baquero](https://diegorbaquero.com).
   <table>
     <tr>
       <td><h4>passport</h4></td>
-      <td>[object Object]</td>
+      <td>0.3.2</td>
       <td>:green_heart: 0.4.0</td>
     </tr>
   </table>
@@ -16967,7 +16967,7 @@ MIT. Copyright (c) [Diego Rodríguez Baquero](https://diegorbaquero.com).
   :octocat: [Repository](undefined)
   
 
-  undefined
+  Simple, unobtrusive authentication for Node.js.
 
   <details>
   <summar>more</summary>
@@ -17153,7 +17153,7 @@ Copyright (c) 2011-2015 Jared Hanson <[http://jaredhanson.net/](http://jaredhans
   <table>
     <tr>
       <td><h4>passport-local</h4></td>
-      <td>[object Object]</td>
+      <td>1.0.0</td>
       <td>:green_heart: 1.0.0</td>
     </tr>
   </table>
@@ -17162,7 +17162,7 @@ Copyright (c) 2011-2015 Jared Hanson <[http://jaredhanson.net/](http://jaredhans
   :octocat: [Repository](undefined)
   
 
-  undefined
+  Local username and password authentication strategy for Passport.
 
   <details>
   <summar>more</summary>
@@ -17244,7 +17244,7 @@ Copyright (c) 2011-2014 Jared Hanson <[http://jaredhanson.net/](http://jaredhans
   <table>
     <tr>
       <td><h4>pkginfo</h4></td>
-      <td>[object Object]</td>
+      <td>0.4.0</td>
       <td>:green_heart: 0.4.1</td>
     </tr>
   </table>
@@ -17253,7 +17253,7 @@ Copyright (c) 2011-2014 Jared Hanson <[http://jaredhanson.net/](http://jaredhans
   :octocat: [Repository](undefined)
   
 
-  undefined
+  An easy way to expose properties on a module from a package.json
 
   <details>
   <summar>more</summary>
@@ -17342,7 +17342,7 @@ Tests are written in [vows][1] and give complete coverage of all APIs.
   <table>
     <tr>
       <td><h4>prop-types</h4></td>
-      <td>[object Object]</td>
+      <td>15.5.10</td>
       <td>:green_heart: 15.6.0</td>
     </tr>
   </table>
@@ -17351,7 +17351,7 @@ Tests are written in [vows][1] and give complete coverage of all APIs.
   :octocat: [Repository](undefined)
   
 
-  undefined
+  Runtime type checking for React props and similar objects.
 
   <details>
   <summar>more</summary>
@@ -17622,7 +17622,7 @@ PropTypes.checkPropTypes(myPropTypes, props, 'prop', 'MyComponent');
   <table>
     <tr>
       <td><h4>pubsub-js</h4></td>
-      <td>[object Object]</td>
+      <td>1.5.7</td>
       <td>:green_heart: 1.5.7</td>
     </tr>
   </table>
@@ -17631,7 +17631,7 @@ PropTypes.checkPropTypes(myPropTypes, props, 'prop', 'MyComponent');
   :octocat: [Repository](undefined)
   
 
-  undefined
+  Dependency free publish/subscribe library
 
   <details>
   <summar>more</summary>
@@ -17888,7 +17888,7 @@ These are a few alternative projects that also implement topic based publish sub
   <table>
     <tr>
       <td><h4>ramda</h4></td>
-      <td>[object Object]</td>
+      <td>0.23.0</td>
       <td>:green_heart: 0.25.0</td>
     </tr>
   </table>
@@ -17897,7 +17897,7 @@ These are a few alternative projects that also implement topic based publish sub
   :octocat: [Repository](undefined)
   
 
-  undefined
+  A practical functional library for JavaScript programmers.
 
   <details>
   <summar>more</summary>
@@ -18121,7 +18121,7 @@ Ramda logo artwork &copy; 2014 J. C. Phillipps. Licensed Creative Commons
   <table>
     <tr>
       <td><h4>rc-slider</h4></td>
-      <td>[object Object]</td>
+      <td>4.0.1</td>
       <td>:green_heart: 8.3.4</td>
     </tr>
   </table>
@@ -18130,7 +18130,7 @@ Ramda logo artwork &copy; 2014 J. C. Phillipps. Licensed Creative Commons
   :octocat: [Repository](undefined)
   
 
-  undefined
+  Slider UI component for React
 
   <details>
   <summar>more</summary>
@@ -18296,7 +18296,7 @@ Online examples: [http://react-component.github.io/slider/](http://react-compone
   <table>
     <tr>
       <td><h4>react</h4></td>
-      <td>[object Object]</td>
+      <td>15.6.1</td>
       <td>:green_heart: 16.0.0</td>
     </tr>
   </table>
@@ -18305,7 +18305,7 @@ Online examples: [http://react-component.github.io/slider/](http://react-compone
   :octocat: [Repository](undefined)
   
 
-  undefined
+  React is a JavaScript library for building user interfaces.
 
   <details>
   <summar>more</summary>
@@ -18330,7 +18330,7 @@ var React = require('react');
   <table>
     <tr>
       <td><h4>react-addons-perf</h4></td>
-      <td>[object Object]</td>
+      <td>15.4.2</td>
       <td>:green_heart: 15.4.2</td>
     </tr>
   </table>
@@ -18339,7 +18339,7 @@ var React = require('react');
   :octocat: [Repository](undefined)
   
 
-  undefined
+  This package provides the React Perf add-on.
 
   <details>
   <summar>more</summary>
@@ -18352,7 +18352,7 @@ See <https://facebook.github.io/react/docs/perf.html> for more information.
   <table>
     <tr>
       <td><h4>react-addons-pure-render-mixin</h4></td>
-      <td>[object Object]</td>
+      <td>15.5.2</td>
       <td>:green_heart: 15.6.2</td>
     </tr>
   </table>
@@ -18361,7 +18361,7 @@ See <https://facebook.github.io/react/docs/perf.html> for more information.
   :octocat: [Repository](undefined)
   
 
-  undefined
+  >**Note:** >This is a legacy React addon, and is no longer maintained. > >We don't encourage using it in new code, but it exists for backwards compatibility.   >The recommended migration path is to use [`React.PureComponent`](https://facebook.github.io/re
 
   <details>
   <summar>more</summary>
@@ -18422,7 +18422,7 @@ Under the hood, the mixin implements [shouldComponentUpdate](https://facebook.gi
   <table>
     <tr>
       <td><h4>react-addons-shallow-compare</h4></td>
-      <td>[object Object]</td>
+      <td>15.5.2</td>
       <td>:green_heart: 15.6.2</td>
     </tr>
   </table>
@@ -18431,7 +18431,7 @@ Under the hood, the mixin implements [shouldComponentUpdate](https://facebook.gi
   :octocat: [Repository](undefined)
   
 
-  undefined
+  >**Note:** >This is a legacy React addon, and is no longer maintained. > >We don't encourage using it in new code, but it exists for backwards compatibility.   >The recommended migration path is to use [`React.PureComponent`](https://facebook.github.io/re
 
   <details>
   <summar>more</summary>
@@ -18493,7 +18493,7 @@ It does this by iterating on the keys of the objects being compared and returnin
   <table>
     <tr>
       <td><h4>react-addons-test-utils</h4></td>
-      <td>[object Object]</td>
+      <td>15.4.2</td>
       <td>:green_heart: 15.6.2</td>
     </tr>
   </table>
@@ -18502,7 +18502,7 @@ It does this by iterating on the keys of the objects being compared and returnin
   :octocat: [Repository](undefined)
   
 
-  undefined
+  This package provides the React TestUtils add-on.
 
   <details>
   <summar>more</summary>
@@ -18519,7 +18519,7 @@ This package is deprecated as of version 15.5.0:
   <table>
     <tr>
       <td><h4>react-autosuggest</h4></td>
-      <td>[object Object]</td>
+      <td>3.9.0</td>
       <td>:green_heart: 9.3.2</td>
     </tr>
   </table>
@@ -18528,7 +18528,7 @@ This package is deprecated as of version 15.5.0:
   :octocat: [Repository](undefined)
   
 
-  undefined
+  WAI-ARIA compliant React autosuggest component
 
   <details>
   <summar>more</summary>
@@ -19172,7 +19172,7 @@ Now, open `http://localhost:3000/demo/dist/index.html` and start hacking!
   <table>
     <tr>
       <td><h4>react-bem-helper</h4></td>
-      <td>[object Object]</td>
+      <td>1.4.1</td>
       <td>:green_heart: 1.4.1</td>
     </tr>
   </table>
@@ -19181,7 +19181,7 @@ Now, open `http://localhost:3000/demo/dist/index.html` and start hacking!
   :octocat: [Repository](undefined)
   
 
-  undefined
+  allows you to easily add BEM-style element and modifier classes to React elements, while hopefully making it easier to scan.
 
   <details>
   <summar>more</summary>
@@ -19498,7 +19498,7 @@ MIT License
   <table>
     <tr>
       <td><h4>react-bootstrap</h4></td>
-      <td>[object Object]</td>
+      <td>0.30.7</td>
       <td>:green_heart: 0.31.5</td>
     </tr>
   </table>
@@ -19507,7 +19507,7 @@ MIT License
   :octocat: [Repository](undefined)
   
 
-  undefined
+  Bootstrap 3 components built with React
 
   <details>
   <summar>more</summary>
@@ -19572,7 +19572,7 @@ Yes please! See the [contributing guidelines][contributing] for details.
   <table>
     <tr>
       <td><h4>react-custom-scroll</h4></td>
-      <td>[object Object]</td>
+      <td>1.10.1</td>
       <td>:green_heart: 2.0.1</td>
     </tr>
   </table>
@@ -19581,7 +19581,7 @@ Yes please! See the [contributing guidelines][contributing] for details.
   :octocat: [Repository](undefined)
   
 
-  undefined
+  An easily designable, cross browser (!!), custom scroll with ReactJS Animations and scroll rate **exactly** like native scroll
 
   <details>
   <summar>more</summary>
@@ -19724,7 +19724,7 @@ karma start
   <table>
     <tr>
       <td><h4>react-datepicker</h4></td>
-      <td>[object Object]</td>
+      <td>0.29.0</td>
       <td>:green_heart: 0.57.0</td>
     </tr>
   </table>
@@ -19733,7 +19733,7 @@ karma start
   :octocat: [Repository](undefined)
   
 
-  undefined
+  A simple and reusable datepicker component for React
 
   <details>
   <summar>more</summary>
@@ -19891,7 +19891,7 @@ Copyright (c) 2016 HackerOne Inc. and individual contributors. Licensed under MI
   <table>
     <tr>
       <td><h4>react-dnd</h4></td>
-      <td>[object Object]</td>
+      <td>2.5.1</td>
       <td>:green_heart: 2.5.4</td>
     </tr>
   </table>
@@ -19900,7 +19900,7 @@ Copyright (c) 2016 HackerOne Inc. and individual contributors. Licensed under MI
   :octocat: [Repository](undefined)
   
 
-  undefined
+  Drag and Drop for React
 
   <details>
   <summar>more</summary>
@@ -19932,7 +19932,7 @@ Big thanks to [BrowserStack](https://www.browserstack.com) for letting the maint
   <table>
     <tr>
       <td><h4>react-dnd-html5-backend</h4></td>
-      <td>[object Object]</td>
+      <td>2.5.1</td>
       <td>:green_heart: 2.5.4</td>
     </tr>
   </table>
@@ -19941,7 +19941,7 @@ Big thanks to [BrowserStack](https://www.browserstack.com) for letting the maint
   :octocat: [Repository](undefined)
   
 
-  undefined
+  HTML5 backend for React DnD
 
   <details>
   <summar>more</summary>
@@ -19986,7 +19986,7 @@ MIT
   <table>
     <tr>
       <td><h4>react-document-title</h4></td>
-      <td>[object Object]</td>
+      <td>2.0.3</td>
       <td>:green_heart: 2.0.3</td>
     </tr>
   </table>
@@ -19995,7 +19995,7 @@ MIT
   :octocat: [Repository](undefined)
   
 
-  undefined
+  A declarative, nested, stateful document.title for React
 
   <details>
   <summar>more</summary>
@@ -20083,7 +20083,7 @@ Looking for something more powerful? Check out [React Helmet](https://github.com
   <table>
     <tr>
       <td><h4>react-dom</h4></td>
-      <td>[object Object]</td>
+      <td>15.6.1</td>
       <td>:green_heart: 16.0.0</td>
     </tr>
   </table>
@@ -20092,7 +20092,7 @@ Looking for something more powerful? Check out [React Helmet](https://github.com
   :octocat: [Repository](undefined)
   
 
-  undefined
+  React package for working with the DOM.
 
   <details>
   <summar>more</summary>
@@ -20155,7 +20155,7 @@ ReactDOMServer.renderToString(<MyComponent />);
   <table>
     <tr>
       <td><h4>react-highcharts</h4></td>
-      <td>[object Object]</td>
+      <td>11.5.0</td>
       <td>:green_heart: 13.0.0</td>
     </tr>
   </table>
@@ -20164,7 +20164,7 @@ ReactDOMServer.renderToString(<MyComponent />);
   :octocat: [Repository](undefined)
   
 
-  undefined
+  React wrapper for highcharts
 
   <details>
   <summar>more</summary>
@@ -20291,7 +20291,7 @@ Point your browser at [http://localhost:8080](http://localhost:8080)
   <table>
     <tr>
       <td><h4>react-json-inspector</h4></td>
-      <td>[object Object]</td>
+      <td>7.0.1</td>
       <td>:green_heart: 7.1.0</td>
     </tr>
   </table>
@@ -20300,7 +20300,7 @@ Point your browser at [http://localhost:8080](http://localhost:8080)
   :octocat: [Repository](undefined)
   
 
-  undefined
+  React JSON inspector component
 
   <details>
   <summar>more</summary>
@@ -20399,7 +20399,7 @@ Optional parameters for filterer (search). Must be an object.
   <table>
     <tr>
       <td><h4>react-relay</h4></td>
-      <td>[object Object]</td>
+      <td>1.4.1</td>
       <td>:green_heart: 1.4.1</td>
     </tr>
   </table>
@@ -20408,7 +20408,7 @@ Optional parameters for filterer (search). Must be an object.
   :octocat: [Repository](undefined)
   
 
-  undefined
+  A framework for building GraphQL-driven React applications.
 
   <details>
   <summar>more</summary>
@@ -20417,7 +20417,7 @@ Optional parameters for filterer (search). Must be an object.
   <table>
     <tr>
       <td><h4>react-reorder</h4></td>
-      <td>[object Object]</td>
+      <td>2.2.0</td>
       <td>:green_heart: 3.0.0-alpha.2</td>
     </tr>
   </table>
@@ -20426,7 +20426,7 @@ Optional parameters for filterer (search). Must be an object.
   :octocat: [Repository](undefined)
   
 
-  undefined
+  Drag & drop, touch enabled, reorderable / sortable list, React component
 
   <details>
   <summar>more</summary>
@@ -20563,7 +20563,7 @@ onReorderGroup (event, previousIndex, nextIndex, fromId, toId) {
   <table>
     <tr>
       <td><h4>react-router</h4></td>
-      <td>[object Object]</td>
+      <td>2.8.1</td>
       <td>:green_heart: 4.2.0</td>
     </tr>
   </table>
@@ -20572,7 +20572,7 @@ onReorderGroup (event, previousIndex, nextIndex, fromId, toId) {
   :octocat: [Repository](undefined)
   
 
-  undefined
+  Declarative routing for React
 
   <details>
   <summar>more</summary>
@@ -20621,7 +20621,7 @@ React Router is built and maintained by [React Training](https://reacttraining.c
   <table>
     <tr>
       <td><h4>react-scroll</h4></td>
-      <td>[object Object]</td>
+      <td>1.5.2</td>
       <td>:green_heart: 1.6.1</td>
     </tr>
   </table>
@@ -20630,7 +20630,7 @@ React Router is built and maintained by [React Training](https://reacttraining.c
   :octocat: [Repository](undefined)
   
 
-  undefined
+  A scroll component for React.js
 
   <details>
   <summar>more</summary>
@@ -21078,7 +21078,7 @@ A good visual reference can be found at [easings.net](http://easings.net/)
   <table>
     <tr>
       <td><h4>redis</h4></td>
-      <td>[object Object]</td>
+      <td>2.7.1</td>
       <td>:green_heart: 2.8.0</td>
     </tr>
   </table>
@@ -21087,7 +21087,7 @@ A good visual reference can be found at [easings.net](http://easings.net/)
   :octocat: [Repository](undefined)
   
 
-  undefined
+  Redis client library
 
   <details>
   <summar>more</summary>
@@ -22061,7 +22061,7 @@ hesitate to contact either one of us.
   <table>
     <tr>
       <td><h4>relay-runtime</h4></td>
-      <td>[object Object]</td>
+      <td>1.4.1</td>
       <td>:green_heart: 1.4.1</td>
     </tr>
   </table>
@@ -22070,7 +22070,7 @@ hesitate to contact either one of us.
   :octocat: [Repository](undefined)
   
 
-  undefined
+  A core runtime for building GraphQL-driven applications.
 
   <details>
   <summar>more</summary>
@@ -22079,7 +22079,7 @@ hesitate to contact either one of us.
   <table>
     <tr>
       <td><h4>request</h4></td>
-      <td>[object Object]</td>
+      <td>2.81.0</td>
       <td>:green_heart: 2.83.0</td>
     </tr>
   </table>
@@ -22088,7 +22088,7 @@ hesitate to contact either one of us.
   :octocat: [Repository](undefined)
   
 
-  undefined
+  Simplified HTTP request client.
 
   <details>
   <summar>more</summary>
@@ -23194,7 +23194,7 @@ request({url: 'http://www.google.com', jar: j}, function () {
   <table>
     <tr>
       <td><h4>request-promise</h4></td>
-      <td>[object Object]</td>
+      <td>4.2.1</td>
       <td>:green_heart: 4.2.2</td>
     </tr>
   </table>
@@ -23203,7 +23203,7 @@ request({url: 'http://www.google.com', jar: j}, function () {
   :octocat: [Repository](undefined)
   
 
-  undefined
+  The simplified HTTP request client 'request' with Promise support. Powered by Bluebird.
 
   <details>
   <summar>more</summary>
@@ -23928,7 +23928,7 @@ See the [LICENSE file](LICENSE) for details.
   <table>
     <tr>
       <td><h4>response-time</h4></td>
-      <td>[object Object]</td>
+      <td>2.3.2</td>
       <td>:green_heart: 2.3.2</td>
     </tr>
   </table>
@@ -23937,7 +23937,7 @@ See the [LICENSE file](LICENSE) for details.
   :octocat: [Repository](undefined)
   
 
-  undefined
+  Response time for Node.js servers
 
   <details>
   <summar>more</summary>
@@ -24083,7 +24083,7 @@ app.get('/', function (req, res) {
   <table>
     <tr>
       <td><h4>scrolling-element</h4></td>
-      <td>[object Object]</td>
+      <td>1.0.2</td>
       <td>:green_heart: 1.0.2</td>
     </tr>
   </table>
@@ -24092,7 +24092,7 @@ app.get('/', function (req, res) {
   :octocat: [Repository](undefined)
   
 
-  undefined
+  A polyfill for document.scrollingElement
 
   <details>
   <summar>more</summary>
@@ -24127,7 +24127,7 @@ MIT
   <table>
     <tr>
       <td><h4>serve-favicon</h4></td>
-      <td>[object Object]</td>
+      <td>2.4.3</td>
       <td>:green_heart: 2.4.5</td>
     </tr>
   </table>
@@ -24136,7 +24136,7 @@ MIT
   :octocat: [Repository](undefined)
   
 
-  undefined
+  favicon serving middleware with caching
 
   <details>
   <summar>more</summary>
@@ -24284,7 +24284,7 @@ server.listen(3000)
   <table>
     <tr>
       <td><h4>shelljs</h4></td>
-      <td>[object Object]</td>
+      <td>0.7.7</td>
       <td>:green_heart: 0.7.8</td>
     </tr>
   </table>
@@ -24293,7 +24293,7 @@ server.listen(3000)
   :octocat: [Repository](undefined)
   
 
-  undefined
+  Portable Unix shell commands for Node.js
 
   <details>
   <summar>more</summary>
@@ -25089,7 +25089,7 @@ Reset shell.config to the defaults:
   <table>
     <tr>
       <td><h4>tinymce</h4></td>
-      <td>[object Object]</td>
+      <td>4.6.3</td>
       <td>:green_heart: 4.7.1</td>
     </tr>
   </table>
@@ -25098,7 +25098,7 @@ Reset shell.config to the defaults:
   :octocat: [Repository](undefined)
   
 
-  undefined
+  Web based JavaScript HTML WYSIWYG editor control.
 
   <details>
   <summar>more</summary>
@@ -25177,7 +25177,7 @@ Docs are hosted on Github in the [tinymce-docs](https://github.com/tinymce/tinym
   <table>
     <tr>
       <td><h4>twix</h4></td>
-      <td>[object Object]</td>
+      <td>1.2.0</td>
       <td>:green_heart: 1.2.1</td>
     </tr>
   </table>
@@ -25186,7 +25186,7 @@ Docs are hosted on Github in the [tinymce-docs](https://github.com/tinymce/tinym
   :octocat: [Repository](undefined)
   
 
-  undefined
+  Twix.js allows you to work with date ranges
 
   <details>
   <summar>more</summary>
@@ -25280,7 +25280,7 @@ Copyright 2012-2015 Isaac Cambron and contributors. Distributed under the MIT Li
   <table>
     <tr>
       <td><h4>uglify-js</h4></td>
-      <td>[object Object]</td>
+      <td>2.8.29</td>
       <td>:green_heart: 3.1.5</td>
     </tr>
   </table>
@@ -25289,7 +25289,7 @@ Copyright 2012-2015 Isaac Cambron and contributors. Distributed under the MIT Li
   :octocat: [Repository](undefined)
   
 
-  undefined
+  JavaScript parser, mangler/compressor and beautifier toolkit
 
   <details>
   <summar>more</summary>
@@ -26383,7 +26383,7 @@ UglifyJS.minify(code, { compress: false, mangle: true });
   <table>
     <tr>
       <td><h4>url</h4></td>
-      <td>[object Object]</td>
+      <td>0.11.0</td>
       <td>:green_heart: 0.11.0</td>
     </tr>
   </table>
@@ -26392,7 +26392,7 @@ UglifyJS.minify(code, { compress: false, mangle: true });
   :octocat: [Repository](undefined)
   
 
-  undefined
+  The core `url` packaged standalone for use with Browserify.
 
   <details>
   <summar>more</summary>
@@ -26509,7 +26509,7 @@ an anchor tag.  Examples:
   <table>
     <tr>
       <td><h4>uuid</h4></td>
-      <td>[object Object]</td>
+      <td>3.1.0</td>
       <td>:green_heart: 3.1.0</td>
     </tr>
   </table>
@@ -26518,7 +26518,7 @@ an anchor tag.  Examples:
   :octocat: [Repository](undefined)
   
 
-  undefined
+  RFC4122 (v1, v4, and v5) UUIDs
 
   <details>
   <summar>more</summary>
@@ -26754,7 +26754,7 @@ The code for the legacy node-uuid package is available in the `node-uuid` branch
   <table>
     <tr>
       <td><h4>webpack</h4></td>
-      <td>[object Object]</td>
+      <td>3.5.5</td>
       <td>:green_heart: 3.8.1</td>
     </tr>
   </table>
@@ -26763,7 +26763,7 @@ The code for the legacy node-uuid package is available in the `node-uuid` branch
   :octocat: [Repository](undefined)
   
 
-  undefined
+  Packs CommonJs/AMD modules for the browser. Allows to split your codebase into multiple bundles, which can be loaded on demand. Support loaders to preprocess files, i.e. json, jsx, es7, css, less, ... and your custom stuff.
 
   <details>
   <summar>more</summary>
@@ -27411,7 +27411,7 @@ src="https://static.monei.net/monei-logo.svg" height="30" alt="MONEI"></a>
   <table>
     <tr>
       <td><h4>webpack-dev-server</h4></td>
-      <td>[object Object]</td>
+      <td>2.7.1</td>
       <td>:green_heart: 2.9.3</td>
     </tr>
   </table>
@@ -27420,7 +27420,7 @@ src="https://static.monei.net/monei-logo.svg" height="30" alt="MONEI"></a>
   :octocat: [Repository](undefined)
   
 
-  undefined
+  Serves a webpack app. Updates the browser on changes.
 
   <details>
   <summar>more</summary>
@@ -27603,7 +27603,7 @@ This project is heavily inspired by [peerigon/nof5](https://github.com/peerigon/
 <table>
     <tr>
       <td><h4>fsevents</h4></td>
-      <td>[object Object]</td>
+      <td>1.0.12</td>
       <td>:green_heart: 1.1.2</td>
     </tr>
   </table>
@@ -27612,7 +27612,7 @@ This project is heavily inspired by [peerigon/nof5](https://github.com/peerigon/
   :octocat: [Repository](undefined)
   
 
-  undefined
+  Native Access to Mac OS-X FSEvents
 
   <details>
   <summar>more</summary>

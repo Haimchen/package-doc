@@ -120,8 +120,10 @@ const saveNpmData = (index, body, depType) => {
     homepage: res.homepage,
     keywords: res.keywords,
     license: res.license,
+    description: res.description,
     repository: res.respository && res.repository.url,
-    installed: res.versions[packageData[depType][index].maxVersion],
+    // installed: res.versions[packageData[depType][index].maxVersion],
+    installed: packageData[depType][index]['maxVersion'],
   }
 }
 
