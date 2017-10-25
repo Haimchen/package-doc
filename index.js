@@ -10,9 +10,6 @@ let errorCounter = 0;
 let numberPackages;
 let testList = []
 
-let start;
-let end;
-
 const agents = []
 for(var i = 0; i < 4; i++) {
   agents[i] = new http.Agent({ keepAlive: true })
@@ -83,7 +80,6 @@ const getInstalledPackages = () => {
 
 const matchMaxVersion = () => {
 
-  start = new Date()
   Object.entries(dependencies).forEach(([depType, list]) => {
     packageData[depType] = list.map((package, index) => {
       const version = installedPackages[package].versions.sort()[0]
@@ -134,21 +130,64 @@ const afterResponse = () => {
   if (packageCounter >= numberPackages) {
     //keepAliveAgent.destroy()
     agents.forEach(agent => agent.destroy())
-    writeMd()
+    writeFile()
   }
 }
 
-const writeMd = () => {
-  end = new Date()
-  Object.entries(packageData).forEach(([key, value]) => {
-      console.log(`Dependencies of type ${key}\n`)
-      console.log(
-        value.filter(entry => !entry.error)
-        .map(entry => `${entry.name} | ${entry.maxVersion} | ${entry.latestVersion} | ${entry.homepage}\n`)
-        .reduce((acc, curr) => acc + curr, "")
-      )
+const writeFile = () => {
+  const text = writeMd()
+
+  fs.writeFile('PACKAGES.md', text, (err) => {
+    if (err) { console.error(`Package Documentation could not be written to PACKAGES.md. Error: ${err}`) }
+    else { console.log(`Successfully wrote PACKAGES.md.`) }
   })
-  console.log(end - start)
+}
+
+const sectionHeader = (sectionName) => `### Dependencies of type ${sectionName}\n\n`
+
+const writePackageInfo = (entry) => (
+  `<table>
+    <tr>
+      <td><h4>${entry.name}</h4></td>
+      <td>${entry.installed}</td>
+      <td>:heart_green: ${entry.latestVersion}</td>
+    </tr>
+  </table>\n
+  :earth_africa: [Homepage](${entry.homepage})
+  :github: [Repository](${entry.repository})
+  \n
+  ${entry.description}\n
+  <detail>
+  <summar>more</summary>
+  ${entry.readme}
+  </detail>
+  `
+)
+
+const writeMd = () => {
+  const header = `# Packages/n/n`;
+  let errors = [];
+
+  const packages = Object.entries(packageData).map(([key, value]) => {
+    const sectionPackages = value
+      .filter((entry) => {
+      if (entry.error) { errors.push(entry) }
+      return !entry.error
+      })
+      .map(entry => writePackageInfo(entry))
+      .reduce((acc, curr) => acc + curr, "");
+
+    return sectionHeader(key) + sectionPackages;
+  })
+
+  if (errors.length > 0) {
+    const missingPackages = `### :alarm_clock: Missing Packages\n\n
+      The following packages were not found on the npm registry. They might be private or no longer exist.`
+      + errors.map(err => `- ${err.name} (${err.maxVersion})\n`)
+    return header + packages + missingPackages;
+  }
+
+  return header + packages;
 }
 
 getInstalledPackages()
